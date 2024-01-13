@@ -1,0 +1,1767 @@
+SENW_ARTICULATED_PROPOSITION,270,$proposition
+SENW_ARTICULATED_PROPOSITION,10,$proposition; this is why $proposition
+SENW_ARTICULATED_PROPOSITION,10,$proposition; nevertheless $proposition
+SENW_ARTICULATED_PROPOSITION,10,$proposition, whereas $proposition
+SENW_ARTICULATED_PROPOSITION,40,$proposition, while $proposition
+SENW_ARTICULATED_PROPOSITION,10,$proposition. In the same time, $proposition
+SENW_ARTICULATED_PROPOSITION,10,$proposition. As a result, $proposition
+SENW_ARTICULATED_PROPOSITION,10,$proposition, whilst $proposition
+SENW_ARTICULATED_PROPOSITION,3,our gut-feeling is that $proposition
+SENW_ARTICULATED_PROPOSITION,3,going forward, $proposition
+SENW_ARTICULATED_PROPOSITION,3,actually, $proposition
+SENW_ARTICULATED_PROPOSITION,3,in the future, $proposition
+SENW_ARTICULATED_PROPOSITION,3,flat out, $proposition
+SENW_ARTICULATED_PROPOSITION,3,first and foremost, $proposition
+SENW_ARTICULATED_PROPOSITION,1,in today's fast-changing world, $proposition
+SENW_ARTICULATED_PROPOSITION,1,internally and externally, $proposition
+SENW_ARTICULATED_PROPOSITION,1,our message is: $proposition
+SENW_ARTICULATED_PROPOSITION,1,in a data-first world, $proposition
+SENW_ARTICULATED_PROPOSITION,1, the future awaits
+SENW_ARTICULATED_PROPOSITION,1,success brings success;
+SENW_ARTICULATED_PROPOSITION,1,everyone is coming to grips with the fact that $proposition
+SENW_ARTICULATED_PROPOSITION,1,as the consumer and commerce landscape continues to evolve $proposition
+SENW_ARTICULATED_PROPOSITION,1,in an age of information, $proposition
+SENW_ARTICULATED_PROPOSITION,1,in a growing digital environment, $proposition
+SENW_ARTICULATED_PROPOSITION,5,$faukon $personInfinitiveVerbAndEnding $eventualPostfixedAdverb
+SENW_ARTICULATED_PROPOSITION,45,the $person $eventualAdverb $personVerbAndEnding $eventualPostfixedAdverb
+SENW_ARTICULATED_PROPOSITION,47,$thingWithRandomArticlePlural $eventualAdverb $thingVerbAndEnding $eventualPostfixedAdverb
+SENW_ARTICULATED_PROPOSITION,5,$thingAtomRandom and $thingAtomRandom  $eventualAdverb $thingVerbAndEnding $eventualPostfixedAdverb
+SENW_ARTICULATED_PROPOSITION,3,$thingAtom, $thingAtom and $thingAtom $eventualAdverb $thingVerbAndEndingPlural $eventualPostfixedAdverb
+SENW_ARTICULATED_PROPOSITION,1,there can be no $growthAtom until we can achieve $addIndefiniteArticleGrowth
+SENW_ARTICULATED_PROPOSITION,1,$thing is all about $thing
+SENW_ARTICULATED_PROPOSITION,1,there is no alternative to $thingAtomRandom
+SENW_ARTICULATED_PROPOSITION,1,the key to $thingAtom is $thingAtom
+SENW_ARTICULATED_PROPOSITION,1,opting out of $thing is not a choice
+SENW_ARTICULATED_PROPOSITION,1,$addIndefiniteArticleGrowth goes hand-in-hand with $addIndefiniteArticleGrowth
+SENW_ARTICULATED_PROPOSITION,1,the $person will be well equipped to $personInfinitiveVerbAndEnding
+SENW_ARTICULATED_PROPOSITION,1,$thingAtom is a matter of speed of action
+SENW_ARTICULATED_PROPOSITION,1,$thingAtom won't happen without $thingAtomRandom,
+SENW_ARTICULATED_PROPOSITION,1,$thingWithRandomArticlePlural will be best positioned to $personInfinitiveVerbAndEnding
+SENW_ARTICULATED_PROPOSITION,1,$thingAtom in the digital age calls for $thingAtomRandom
+SENW_ARTICULATED_PROPOSITION,1,$thingAtom moves the company up the value chain
+SENW_ARTICULATED_PROPOSITION,1,$thingAtom requires that we all pull in the same direction
+SENW_ARTICULATED_PROPOSITION,3,the point is not merely to $personInfinitiveVerbAndEnding. The point is to $personInfinitiveVerbAndEnding
+SENW_ARTICULATED_PROPOSITION,4,it's not about $thingAtomRandom. It's about $thingWithRandomArticleRandom
+SENW_ARTICULATED_PROPOSITION,3,our challenge is not to $personInfinitiveVerbAndEnding. Our challenge is to $personInfinitiveVerbAndEnding
+SENW_ARTICULATED_PROPOSITION,4,the game is all about $thingAtom, $thingAtom, $thingAtom, $thingAtom, and $thingAtom - not $thingAtom, $thingAtom, $thingAtom, $thingAtom, and $thingAtom
+SENW_ARTICULATED_PROPOSITION,1,$thingAtomPlural not only thrive on change, they initiate it
+SENW_ARTICULATED_PROPOSITION,1,as the pace of $thingAtomRandom continues to accelerate, $thingAtom has become a necessity
+SENW_ARTICULATED_PROPOSITION,1,$thingAtom, $thingAtom, $thingAtom, $thingAtom - all are competing for the attention of $person
+SENW_ARTICULATED_PROPOSITION,1,$thingPlural will be a thing of the past over the next decade and be fully replaced with $thingRandom
+SENW_BOSS_AGE,3,
+SENW_BOSS_AGE,1,Senior-
+SENW_BOSS_CO,4,
+SENW_BOSS_CO,1,Co-
+SENW_BOSS_DEPT,42,department
+SENW_BOSS_DEPT,1,Visionary
+SENW_BOSS_DEPT,1,Digital
+SENW_BOSS_DEPT,1,Technical
+SENW_BOSS_DEPT,1,Manifesto
+SENW_BOSS_DEPT,1,Operating
+SENW_BOSS_DEPT,1,Product
+SENW_BOSS_DEPT,1,Scheme
+SENW_BOSS_DEPT,1,Growth
+SENW_BOSS_DEPT,1,Brand
+SENW_BOSS_DEPT,1,Sales
+SENW_BOSS_DEPT,1,Networking
+SENW_BOSS_DEPT,1,Content
+SENW_BOSS_DEPT,1,Holacracy
+SENW_BOSS_DEPT,1,Data Protection
+SENW_BOSS_DEPT,1,Risk Appetite
+SENW_BOSS_DEPT,1,Business
+SENW_BOSS_EXECUTIVE,10,
+SENW_BOSS_EXECUTIVE,1,Executive
+SENW_BOSS_EXECUTIVE,1,Principal
+SENW_BOSS_GROUPAL,18,
+SENW_BOSS_GROUPAL,1,Group
+SENW_BOSS_GROUPAL,1,Global
+SENW_BOSS_MANAGING,5,
+SENW_BOSS_MANAGING,1,Managing
+SENW_BOSS_MANAGING,1,Acting
+SENW_BOSS_MANAGING,1,General
+SENW_BOSS_OFFICER,1,Catalyst
+SENW_BOSS_OFFICER,1,Futurist
+SENW_BOSS_OFFICER,1,Strategist
+SENW_BOSS_OFFICER,1,Technologist
+SENW_BOSS_OFFICER,1,Evangelist
+SENW_BOSS_OFFICER,15,Officer
+SENW_BOSS_TITLE,1,%s%sDirector
+SENW_BOSS_TITLE,1,%sChief
+SENW_BOSS_TITLE,1,%sHead
+SENW_BOSS_TITLE,1,%s%sPresident
+SENW_BOSS_TITLE,1,Supervisor
+SENW_BOSS_TITLE,1,%sManager
+SENW_BOSS_VICE,29,
+SENW_BOSS_VICE,10,Vice
+SENW_BOSS_VICE,1,Corporate Vice
+SENW_EVENTUAL_POSTFIXED_ADVERB,38,
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, using $thingWithRandomArticleRandom
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, by leveraging $thingWithRandomArticlePlural
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, taking advantage of $thingWithRandomArticleRandom
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, within the $matrixOrSO
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, across the $matrixOrSOPlural
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, across and beyond the $matrixOrSOPlural
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, resulting in $addIndefiniteArticleGrowth
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, reaped from our $growth
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, as a consequence of $addIndefiniteArticleGrowth
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, because $thingWithRandomArticlePlural produce $growth
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, up, down and across the $matrixOrSO
+SENW_EVENTUAL_POSTFIXED_ADVERB,1, ensuring $addIndefiniteArticleThingRandom
+SENW_EVENTUAL_POSTFIXED_ADVERB,1,, paving the way for $addIndefiniteArticleThingRandom;
+SENW_FAUKON,15,
+SENW_FAUKON,1,we must activate the $matrixOrSO to
+SENW_ORG,2,organization
+SENW_ORG,3,silo
+SENW_ORG,3,matrix
+SENW_ORG,1,cube
+SENW_ORG,1,sphere
+SENW_ORG,1,pyramid
+SENW_PERSON,1,$thingAtom champion
+SENW_PERSON,1,$thingAtomPlural champion
+SENW_PERSON,16,$thingAtom
+SENW_PERSON,16,$thingAtomPlural
+SENW_PERSON,14,$boss
+SENW_PERSON_VERB_AND_DEFINITE_ENDING,110,
+SENW_PERSON_VERB_AND_DEFINITE_ENDING,1,create an environment where $thingAtom, $thingAtom and $thingAtom can thrive
+SENW_PERSON_VERB_AND_DEFINITE_ENDING,1,advance our strategy to $personInfinitiveVerbAndEnding
+SENW_PERSON_VERB_AND_DEFINITE_ENDING,1,focus on our $thingAtomPlural to $personInfinitiveVerbAndEnding
+SENW_PERSON_VERB_AND_ENDING,10,$personVerbAndDefiniteEndingPluralInf
+SENW_PERSON_VERB_AND_ENDING,2,$personVerbHavingBadThingComplement $badThingWithRandomArticle
+SENW_PERSON_VERB_AND_ENDING,2,$personVerbHavingBadThingComplement $badThingWithRandomArticlePlural
+SENW_PERSON_VERB_AND_ENDING,2,$personVerbHavingBadThingComplementPlural $badThingWithRandomArticlePlural
+SENW_PERSON_VERB_AND_ENDING,40,$personVerbHavingThingComplement $thingWithRandomArticle
+SENW_PERSON_VERB_AND_ENDING,40,$personVerbHavingThingComplement $thingWithRandomArticlePlural
+SENW_PERSON_VERB_AND_ENDING,40,$personVerbHavingThingComplementPlural $thingWithRandomArticlePlural
+SENW_PROPOSITION,5,$faukon $personInfinitiveVerbAndEnding $eventualPostfixedAdverb
+SENW_PROPOSITION,45,the $person $eventualAdverb $personVerbAndEnding $eventualPostfixedAdverb
+SENW_PROPOSITION,20,$thingWithRandomArticlePlural $eventualAdverb $thingVerbAndEndingPlural $eventualPostfixedAdverb
+SENW_PROPOSITION,27,$thingWithRandomArticle $eventualAdverb $thingVerbAndEnding $eventualPostfixedAdverb
+SENW_PROPOSITION,5,$thingAtomRandom and $thingAtomRandom  $eventualAdverb $thingVerbAndEnding $eventualPostfixedAdverb
+SENW_PROPOSITION,3,$thingAtom, $thingAtom and $thingAtom $eventualAdverb $thingVerbAndEndingPlural $eventualPostfixedAdverb
+SENW_PROPOSITION,1,there can be no $growthAtom until we can achieve $addIndefiniteArticleGrowth
+SENW_PROPOSITION,1,$thing is all about $thingRandom
+SENW_PROPOSITION,1,there is no alternative to $thingAtomRandom
+SENW_PROPOSITION,1,the key to $thingAtom is $thingAtom
+SENW_PROPOSITION,1,opting out of $thing is not a choice
+SENW_PROPOSITION,1,$addIndefiniteArticle goes hand-in-hand with $addIndefiniteArticle
+SENW_PROPOSITION,1,the $person will be well equipped to $personInfinitiveVerbAndEnding
+SENW_PROPOSITION,1,$thingAtom is a matter of speed of action
+SENW_PROPOSITION,1,$thingAtom won't happen without $thingAtomRandom,
+SENW_PROPOSITION,1,$thingWithRandomArticle will be best positioned to $personInfinitiveVerbAndEnding
+SENW_PROPOSITION,1,$thingAtom in the digital age calls for $thingAtomRandom
+SENW_PROPOSITION,1,$thingAtom moves the company up the value chain
+SENW_PROPOSITION,1,$thingAtom requires that we all pull in the same direction
+SENW_ADD_RANDOM_ARTICLE,150,
+SENW_ADD_RANDOM_ARTICLE,20,the %s
+SENW_ADD_RANDOM_ARTICLE,40,our %s
+SENW_ADD_RANDOM_ARTICLE,1,the 'why' behind %s
+SENW_THING,66,$thingAtom
+SENW_THING,10,$thingAdjective, $thingAdjective $thingAtom
+SENW_THING,5,$thingAdjective $thingAtom
+SENW_THING,65,$thingAdjective and $thingAdjective $thingAtom
+SENW_THING,2,$thingAdjective and/or $thingAdjective $thingAtom
+SENW_THING,2,$growth
+SENW_THING,6,$thingAdjective, $thingAdjective and $thingAdjective $thingAtom
+SENW_THING,4,$thingAdjective $thingAtom
+SENW_THING_ATOM,198,
+SENW_THING_ATOM,270,$thingInner
+SENW_THING_ATOM,1,Quality Research
+SENW_THING_ATOM,1,Customer Experience
+SENW_THING_ATOM,1,Customer Experience Management
+SENW_THING_ATOM,1,$timelessEvent
+SENW_THING_INNER,68,
+SENW_THING_INNER,194,$matrixOrSO
+SENW_THING_INNER,1,Management Information System
+SENW_THING_INNER,1,Management Information System
+SENW_THING_INNER,1,Quality Management System
+SENW_THING_INNER,1,Control Information System
+SENW_THING_INNER,1,Strategic Management System
+SENW_THING_INNER,1,Business Model Innovation
+SENW_THING_INNER,1,leadership development system
+SENW_THING_PLURAL,66,$thingAtomPlural
+SENW_THING_PLURAL,10,$thingAdjective, $thingAdjective $thingAtomPlural
+SENW_THING_PLURAL,5,$thingAdjective $thingAtomPlural
+SENW_THING_PLURAL,65,$thingAdjective and $thingAdjective $thingAtomPlural
+SENW_THING_PLURAL,2,$thingAdjective and/or $thingAdjective $thingAtomPlural
+SENW_THING_PLURAL,2,$growth
+SENW_THING_PLURAL,6,$thingAdjective, $thingAdjective and $thingAdjective $thingAtomPlural
+SENW_THING_PLURAL,4,$thingAdjective $thingAtomPlural
+SENW_THING_VERB_ENDING,5,
+SENW_THING_VERB_ENDING,50,$thingVerbHavingThingComplement $thingWithRandomArticleRandom
+SENW_THING_VERB_ENDING,25,$personVerbHavingPersonComplement the $person
+SENW_THING_VERB_ENDING,25,$personVerbHavingPersonComplement the $personPlural
+SENW_THING_VERB_ENDING_PLURAL,5,
+SENW_THING_VERB_ENDING_PLURAL,50,$thingVerbHavingThingComplementPlural $thingWithRandomArticleRandom
+SENW_THING_VERB_ENDING_PLURAL,25,$personVerbHavingPersonComplementPlural the $person
+SENW_THING_VERB_ENDING_PLURAL,25,$personVerbHavingPersonComplementPlural the $personPlural
+WORD_ADVERB_EVENTUAL,1,interactively
+WORD_ADVERB_EVENTUAL,1,credibly
+WORD_ADVERB_EVENTUAL,1,quickly
+WORD_ADVERB_EVENTUAL,1,proactively
+WORD_ADVERB_EVENTUAL,1,200%
+WORD_ADVERB_EVENTUAL,1,24/7
+WORD_ADVERB_EVENTUAL,1,globally
+WORD_ADVERB_EVENTUAL,1,culturally
+WORD_ADVERB_EVENTUAL,1,technically
+WORD_ADVERB_EVENTUAL,1,strategically
+WORD_ADVERB_EVENTUAL,1,swiftly
+WORD_ADVERB_EVENTUAL,1,cautiously
+WORD_ADVERB_EVENTUAL,1,expediently
+WORD_ADVERB_EVENTUAL,1,organically
+WORD_ADVERB_EVENTUAL,1,carefully
+WORD_ADVERB_EVENTUAL,1,significantly
+WORD_ADVERB_EVENTUAL,1,conservatively
+WORD_ADVERB_EVENTUAL,1,adequately
+WORD_ADVERB_EVENTUAL,1,genuinely
+WORD_ADVERB_EVENTUAL,1,efficiently
+WORD_ADVERB_EVENTUAL,1,seamlessly
+WORD_ADVERB_EVENTUAL,1,consistently
+WORD_ADVERB_EVENTUAL,1,diligently
+WORD_ADVERB_EVENTUAL,1,dramatically
+WORD_ADVERB_EVENTUAL,1,straightforwardly
+WORD_ADVERB_EVENTUAL,1,differentially
+WORD_ADVERB_EVENTUAL,1,gradually
+WORD_ADVERB_EVENTUAL,1,aggressively
+WORD_ADVERB_EVENTUAL,1,cost-effectively
+WORD_ADVERB_EVENTUAL,1,proactively
+WORD_ADVERB_EVENTUAL,1,inherently
+WORD_ADVERB_EVENTUAL,1,directionally
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,going forward
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,within the industry
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,across the board
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,in this space
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,from the get-go
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,at the end of the day
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,throughout the organization
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,as part of the plan
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,by thinking outside of the box
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,ahead of schedule
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,, relative to our peers
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,on a transitional basis
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,by expanding boundaries
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,by nurturing talent
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,, as a Tier 1 company
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,up-front
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,on-the-fly
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,across our portfolio
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,50/50
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,in the marketplace
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,by thinking and acting beyond boundaries
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,at the individual, team and organizational level
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,over the long term
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,across geographies
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,in the core
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,across industry sectors
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,across the wider Group
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,by levelling the playing field
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,on a day-to-day basis
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,across boundaries
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,within the community
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,from within the data
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,round-the-clock
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,moving forward
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,downstream
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,down the chain
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,in the space
+WORD_ADVERB_EVENTUAL_POSTFIXED,1,across the entire spectrum
+WORD_BAD_THINGS,1,issues
+WORD_BAD_THINGS,1,intricacies
+WORD_BAD_THINGS,1,organizational diseconomies
+WORD_BAD_THINGS,1,black swans
+WORD_BAD_THINGS,1,challenging market conditions
+WORD_BAD_THINGS,1,inefficiencies
+WORD_BAD_THINGS,1,overlaps
+WORD_BAD_THINGS,1,known unknowns
+WORD_BAD_THINGS,1,unknown unknowns
+WORD_BAD_THINGS,1,soft cycle issues
+WORD_BAD_THINGS,1,obstacles
+WORD_BAD_THINGS,1,surprises
+WORD_BAD_THINGS,1,weaknesses
+WORD_BAD_THINGS,1,threats
+WORD_BAD_THINGS,1,barriers to success
+WORD_BAD_THINGS,1,barriers
+WORD_BAD_THINGS,1,barriers to growth
+WORD_BAD_THINGS,1,problems
+WORD_BAD_THINGS,1,uncertainties
+WORD_BAD_THINGS,1,unfavorable developments
+WORD_BAD_THINGS,1,consumer/agent disconnects
+WORD_BAD_THINGS,1,underperforming areas
+WORD_BAD_THINGS,1,information overloads
+WORD_BAD_THINGS,1,concerns
+WORD_BAD_THINGS,1,shortfalls
+WORD_BAD_THINGS,1,limitations
+WORD_BAD_THINGS,1,downtimes
+WORD_BAD_THINGS,1,headwinds
+WORD_BAD_THINGS,1,subpar returns
+WORD_BAD_THINGS,1,gaps
+WORD_BAD_THINGS,1,market gaps
+WORD_BAD_THINGS,1,capability gaps
+WORD_BAD_THINGS,1,constraints
+WORD_BAD_THINGS,1,problems/difficulties
+WORD_BAD_THINGS,1,bottlenecks
+WORD_BAD_THINGS,1,misunderstandings
+WORD_BAD_THINGS,1,dilemmas
+WORD_BAD_THINGS,1,interdependencies
+WORD_BAD_THINGS,1,discontinuities
+WORD_BAD_THINGS,1,hiccups
+WORD_BAD_THINGS,1,vulnerabilities
+WORD_BAD_THINGS,1,negative cash flows
+WORD_BAD_THINGS,1,net profit revenue deficiencies
+WORD_BAD_THINGS,1,negative contributions to profits
+WORD_BAD_THINGS,1,shortcomings
+WORD_BAD_THINGS,1,pitfalls
+WORD_BAD_THINGS,1,friction
+WORD_BAD_THINGS,1,red flags
+WORD_BAD_THINGS,1,roadblocks
+WORD_BAD_THINGS,1,decision-making biases
+WORD_BOSS_DEPARTMENT,1,Human Resources
+WORD_BOSS_DEPARTMENT,1,Controlling
+WORD_BOSS_DEPARTMENT,1,Internal Audit
+WORD_BOSS_DEPARTMENT,1,Legal
+WORD_BOSS_DEPARTMENT,1,Operations
+WORD_BOSS_DEPARTMENT,1,Management Office
+WORD_BOSS_DEPARTMENT,1,Customer Relations
+WORD_BOSS_DEPARTMENT,1,Client Leadership
+WORD_BOSS_DEPARTMENT,1,Client Relationship
+WORD_BOSS_DEPARTMENT,1,Business Planning
+WORD_BOSS_DEPARTMENT,1,Business Operations
+WORD_BOSS_DEPARTMENT,1,IT Strategy
+WORD_BOSS_DEPARTMENT,1,IT Operations
+WORD_BOSS_DEPARTMENT,1,Marketing
+WORD_BOSS_DEPARTMENT,1,Strategic Planning
+WORD_BOSS_DEPARTMENT,1,Facilities Management
+WORD_BOSS_DEPARTMENT,1,Innovation
+WORD_BOSS_DEPARTMENT,1,Identity
+WORD_BOSS_DEPARTMENT,1,Branding
+WORD_BOSS_DEPARTMENT,1,Diversity and Inclusion
+WORD_BOSS_DEPARTMENT,1,Media Relations
+WORD_BOSS_DEPARTMENT,1,Value Added Services
+WORD_BOSS_DEPARTMENT,1,Technology
+WORD_BOSS_DEPARTMENT,1,Campaigning
+WORD_BOSS_DEPARTMENT,1,Digital Marketing
+WORD_BOSS_DEPARTMENT,1,Digital Transformation Office
+WORD_BOSS_DEPARTMENT,1,Communications
+WORD_BOSS_DEPARTMENT,1,Architecture
+WORD_BOSS_DEPARTMENT,1,Data & Analytics
+WORD_BOSS_DEPARTMENT,1,Compliance
+WORD_BOSS_DEPARTMENT,1,Research & Development
+WORD_BOSS_DEPARTMENT,1,Networking Enhancement
+WORD_BOSS_DEPARTMENT,1,Innovative Strategies
+WORD_BOSS_DEPARTMENT,1,Global Innovation Insight
+WORD_BOSS_DEPARTMENT,1,Transition Transformation
+WORD_BOSS_DEPARTMENT,1,Change Management
+WORD_BOSS_DEPARTMENT,1,Global Strategy
+WORD_BOSS_DEPARTMENT,1,Creativity and Innovation
+WORD_BOSS_DEPARTMENT,1,Information Security
+WORD_BOSS_DEPARTMENT,1,Corporate Planning
+WORD_BOSS_DEPARTMENT,1,Enterprise Customer Experience
+WORD_BOSS_DEPARTMENT,1,Growth Initiatives
+WORD_BOSS_DEPARTMENT,1,Finance
+WORD_BOSS_DEPARTMENT,1,AI Strategy
+WORD_FAUKON,1,we need to
+WORD_FAUKON,1,we've got to
+WORD_FAUKON,1,the reporting unit should
+WORD_FAUKON,1,controlling should
+WORD_FAUKON,1,pursuing this route will enable us to
+WORD_FAUKON,1,we will go the extra mile to
+WORD_FAUKON,1,we are working hard to
+WORD_FAUKON,1,we continue to work tirelessly and diligently to
+WORD_FAUKON,1,we will execute to
+WORD_FAUKON,1,we will sharpen our business models to
+WORD_FAUKON,1,to continue our growth, we must
+WORD_FAUKON,1,we are going to
+WORD_FAUKON,1,we look forward to working together to
+WORD_FAUKON,1,in order to improve, you need to
+WORD_FAUKON,1,trending your numbers should
+WORD_GROWTH_ATOM,1,growth
+WORD_GROWTH_ATOM,1,improvement
+WORD_GROWTH_ATOM,1,throughput increase
+WORD_GROWTH_ATOM,1,efficiency gain
+WORD_GROWTH_ATOM,1,yield enhancement
+WORD_GROWTH_ATOM,1,expansion
+WORD_GROWTH_ATOM,1,productivity improvement
+WORD_GROWTH_ATOM,1,gain in task efficiency
+WORD_GROWTH_ATOM,1,shift in value
+WORD_GROWTH_ATOM,1,increase in margins
+WORD_GROWTH_ATOM,1,cost reduction
+WORD_GROWTH_ATOM,1,cost effectiveness
+WORD_GROWTH_ATOM,1,level of change
+WORD_GROWTH_ATOM,1,revenue growth
+WORD_GROWTH_ATOM,1,profits growth
+WORD_GROWTH_ATOM,1,growth momentum
+WORD_GROWTH_ATOM,1,increase in sales
+WORD_GROWTH_ATOM,1,run-rate efficiency
+WORD_GROWTH,1,organic
+WORD_GROWTH,1,double-digit
+WORD_GROWTH,1,upper single-digit
+WORD_GROWTH,1,breakout
+WORD_GROWTH,1,unprecedented
+WORD_GROWTH,1,unparallelled
+WORD_GROWTH,1,proven
+WORD_GROWTH,1,measured
+WORD_GROWTH,1,sustained
+WORD_GROWTH,1,sustainable
+WORD_GROWTH,1,robust
+WORD_GROWTH,1,solid
+WORD_GROWTH,1,rock-solid
+WORD_GROWTH,1,healthy
+WORD_GROWTH,1,incremental
+WORD_GROWTH,1,significant
+WORD_GROWTH,1,recurring
+WORD_GROWTH,1,sizeable
+WORD_GROWTH,1,rapid
+WORD_GROWTH,1,breakneck
+WORD_GROWTH,1,profitable
+WORD_GROWTH,1,disciplined
+WORD_GROWTH,1,accelerated
+WORD_GROWTH,1,impressive
+WORD_GROWTH,1,superior
+WORD_GROWTH,1,attractive-enough
+WORD_GROWTH,1,continual
+WORD_GROWTH,1,above-potential
+WORD_GROWTH,1,better-than-average
+WORD_GROWTH,1,exponential
+WORD_GROWTH,1,long-term
+WORD_GROWTH,1,future
+WORD_PERSON,1,steering committee
+WORD_PERSON,1,group
+WORD_PERSON,1,project manager
+WORD_PERSON,1,community
+WORD_PERSON,1,sales manager
+WORD_PERSON,1,enabler
+WORD_PERSON,1,powerful champion
+WORD_PERSON,1,thought leader
+WORD_PERSON,1,gatekeeper
+WORD_PERSON,1,resource
+WORD_PERSON,1,senior support staff
+WORD_PERSON,1,brand manager
+WORD_PERSON,1,category manager
+WORD_PERSON,1,account executive
+WORD_PERSON,1,project leader
+WORD_PERSON,1,product manager
+WORD_PERSON,1,naming committee
+WORD_PERSON,1,executive committee
+WORD_PERSON,1,white-collar workforce
+WORD_PERSON,1,innovator
+WORD_PERSON,1,game changer
+WORD_PERSON,1,visionary
+WORD_PERSON,1,market thinker
+WORD_PERSON,1,network
+WORD_PERSON,1,initiator
+WORD_PERSON,1,change agent
+WORD_PERSON,1,rockstar
+WORD_PERSON,1,facilitator
+WORD_PERSON,1,disruptor
+WORD_PERSON,1,challenger
+WORD_PERSON,1,six-sigma black belt
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,manage
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,target
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,streamline
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,improve
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,optimize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,achieve
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,secure
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,address
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,boost
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,deploy
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,innovate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,right-scale
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,formulate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,transition
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,leverage
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,focus on
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,synergize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,generate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,analyse
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,integrate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,empower
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,benchmark
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,learn
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,adapt
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,enable
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,strategize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,prioritize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,pre-prepare
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,deliver
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,champion
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,embrace
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,enhance
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,engineer
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,envision
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,incentivize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,maximize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,visualize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,whiteboard
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,institutionalize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,promote
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,overdeliver
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,right-size
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,rebalance
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,re-imagine
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,influence
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,facilitate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,drive
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,structure
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,standardize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,accelerate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,deepen
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,strengthen
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,broaden
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,enforce
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,establish
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,foster
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,build
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,differentiate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,take a bite out of
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,table
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,flesh out
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,reach out
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,jump-start
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,co-create
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,capitalize on
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,calibrate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,re-aggregate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,articulate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,iterate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,reinvest in
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,potentiate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,front-face
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,co-develop
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,take control of
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,robustify
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,harness
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,activate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,showcase
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,cherry-pick
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,digitize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,re-invent
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,springboard
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,solutionize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,re-content
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,commoditize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,be eager for
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,productize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,repurpose
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,reenergize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,co-specify
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,codify
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,cross-pollinate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,ignite
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,transgenerate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,orchestrate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,envisioneer
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,reintermediate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,reframe
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,control
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,ideate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,reprioritize
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,operate
+WORD_PERSON_INNER_HAVING_THING_COMPLEMENT,1,cascade
+WORD_PERSON_PLURAL,1,key people
+WORD_PERSON_PLURAL,1,human resources
+WORD_PERSON_PLURAL,1,customers
+WORD_PERSON_PLURAL,1,clients
+WORD_PERSON_PLURAL,1,resources
+WORD_PERSON_PLURAL,1,team players
+WORD_PERSON_PLURAL,1,enablers
+WORD_PERSON_PLURAL,1,stakeholders
+WORD_PERSON_PLURAL,1,standard-setters
+WORD_PERSON_PLURAL,1,partners
+WORD_PERSON_PLURAL,1,business leaders
+WORD_PERSON_PLURAL,1,thinkers/planners
+WORD_PERSON_PLURAL,1,white-collar workers
+WORD_PERSON_PLURAL,1,board-level executives
+WORD_PERSON_PLURAL,1,key representatives
+WORD_PERSON_PLURAL,1,innovators
+WORD_PERSON_PLURAL,1,policy makers
+WORD_PERSON_PLURAL,1,pioneers
+WORD_PERSON_PLURAL,1,game changers
+WORD_PERSON_PLURAL,1,market thinkers
+WORD_PERSON_PLURAL,1,thought leaders
+WORD_PERSON_PLURAL,1,mediators
+WORD_PERSON_PLURAL,1,facilitators
+WORD_PERSON_PLURAL,1,attackers
+WORD_PERSON_PLURAL,1,initiators
+WORD_PERSON_PLURAL,1,decision makers
+WORD_PERSON_PLURAL,1,Growth Hackers
+WORD_PERSON_PLURAL,1,Digital Marketers
+WORD_PERSON_PLURAL,1,Creative Technologists
+WORD_PERSON_PLURAL,1,Products Managers
+WORD_PERSON_PLURAL,1,Products Owners
+WORD_PERSON_PLURAL,1,disruptors
+WORD_PERSON_PLURAL,1,challengers
+WORD_PERSON_VERB_DEFINITE_ENDING,1,streamline the process
+WORD_PERSON_VERB_DEFINITE_ENDING,1,address the overarching issues
+WORD_PERSON_VERB_DEFINITE_ENDING,1,benchmark the portfolio
+WORD_PERSON_VERB_DEFINITE_ENDING,1,manage the cycle
+WORD_PERSON_VERB_DEFINITE_ENDING,1,figure out where we come from, where we are going to
+WORD_PERSON_VERB_DEFINITE_ENDING,1,maximize the value
+WORD_PERSON_VERB_DEFINITE_ENDING,1,execute the strategy
+WORD_PERSON_VERB_DEFINITE_ENDING,1,think out of the box
+WORD_PERSON_VERB_DEFINITE_ENDING,1,think differently
+WORD_PERSON_VERB_DEFINITE_ENDING,1,manage the balance
+WORD_PERSON_VERB_DEFINITE_ENDING,1,loop back
+WORD_PERSON_VERB_DEFINITE_ENDING,1,conversate
+WORD_PERSON_VERB_DEFINITE_ENDING,1,go forward together
+WORD_PERSON_VERB_DEFINITE_ENDING,1,achieve efficiencies
+WORD_PERSON_VERB_DEFINITE_ENDING,1,deliver
+WORD_PERSON_VERB_DEFINITE_ENDING,1,stay in the mix
+WORD_PERSON_VERB_DEFINITE_ENDING,1,stay in the zone
+WORD_PERSON_VERB_DEFINITE_ENDING,1,evolve
+WORD_PERSON_VERB_DEFINITE_ENDING,1,exceed expectations
+WORD_PERSON_VERB_DEFINITE_ENDING,1,develop the plan
+WORD_PERSON_VERB_DEFINITE_ENDING,1,develop the blue print for execution
+WORD_PERSON_VERB_DEFINITE_ENDING,1,grow and diversify
+WORD_PERSON_VERB_DEFINITE_ENDING,1,fuel changes
+WORD_PERSON_VERB_DEFINITE_ENDING,1,nurture talent
+WORD_PERSON_VERB_DEFINITE_ENDING,1,turn every stone
+WORD_PERSON_VERB_DEFINITE_ENDING,1,challenge established ideas
+WORD_PERSON_VERB_DEFINITE_ENDING,1,manage the portfolio
+WORD_PERSON_VERB_DEFINITE_ENDING,1,align resources
+WORD_PERSON_VERB_DEFINITE_ENDING,1,drive the business forward
+WORD_PERSON_VERB_DEFINITE_ENDING,1,make things happen
+WORD_PERSON_VERB_DEFINITE_ENDING,1,stay ahead
+WORD_PERSON_VERB_DEFINITE_ENDING,1,outperform peers
+WORD_PERSON_VERB_DEFINITE_ENDING,1,surge ahead
+WORD_PERSON_VERB_DEFINITE_ENDING,1,manage the downside
+WORD_PERSON_VERB_DEFINITE_ENDING,1,stay in the wings
+WORD_PERSON_VERB_DEFINITE_ENDING,1,come to a landing
+WORD_PERSON_VERB_DEFINITE_ENDING,1,shoot it over
+WORD_PERSON_VERB_DEFINITE_ENDING,1,move the needle
+WORD_PERSON_VERB_DEFINITE_ENDING,1,connect the dots
+WORD_PERSON_VERB_DEFINITE_ENDING,1,connect the dots to the end game
+WORD_PERSON_VERB_DEFINITE_ENDING,1,reset the benchmark
+WORD_PERSON_VERB_DEFINITE_ENDING,1,take it offline
+WORD_PERSON_VERB_DEFINITE_ENDING,1,peel the onion
+WORD_PERSON_VERB_DEFINITE_ENDING,1,drill down
+WORD_PERSON_VERB_DEFINITE_ENDING,1,get from here to here
+WORD_PERSON_VERB_DEFINITE_ENDING,1,do things differently
+WORD_PERSON_VERB_DEFINITE_ENDING,1,stretch the status quo
+WORD_PERSON_VERB_DEFINITE_ENDING,1,challenge the status quo
+WORD_PERSON_VERB_DEFINITE_ENDING,1,challenge established ideas
+WORD_PERSON_VERB_DEFINITE_ENDING,1,increase customer satisfaction
+WORD_PERSON_VERB_DEFINITE_ENDING,1,enable customer interaction
+WORD_PERSON_VERB_DEFINITE_ENDING,1,manage the balance
+WORD_PERSON_VERB_DEFINITE_ENDING,1,turn every stone
+WORD_PERSON_VERB_DEFINITE_ENDING,1,drive revenue
+WORD_PERSON_VERB_DEFINITE_ENDING,1,rise to the challenge
+WORD_PERSON_VERB_DEFINITE_ENDING,1,keep it on the radar
+WORD_PERSON_VERB_DEFINITE_ENDING,1,stay on trend
+WORD_PERSON_VERB_DEFINITE_ENDING,1,hunt the business down
+WORD_PERSON_VERB_DEFINITE_ENDING,1,push the envelope to the tilt
+WORD_PERSON_VERB_DEFINITE_ENDING,1,execute on priorities
+WORD_PERSON_VERB_DEFINITE_ENDING,1,stand out from the crowd
+WORD_PERSON_VERB_DEFINITE_ENDING,1,make the abstract concrete
+WORD_PERSON_VERB_DEFINITE_ENDING,1,manage the mix
+WORD_PERSON_VERB_DEFINITE_ENDING,1,grow
+WORD_PERSON_VERB_DEFINITE_ENDING,1,accelerate the strategy
+WORD_PERSON_VERB_DEFINITE_ENDING,1,enhance the strength
+WORD_PERSON_VERB_DEFINITE_ENDING,1,create long-term value
+WORD_PERSON_VERB_DEFINITE_ENDING,1,meet the challenges
+WORD_PERSON_VERB_DEFINITE_ENDING,1,move the progress forward
+WORD_PERSON_VERB_DEFINITE_ENDING,1,do the right projects
+WORD_PERSON_VERB_DEFINITE_ENDING,1,do the projects right
+WORD_PERSON_VERB_DEFINITE_ENDING,1,do more with less
+WORD_PERSON_VERB_DEFINITE_ENDING,1,build winning teams
+WORD_PERSON_VERB_DEFINITE_ENDING,1,deliver on commitments
+WORD_PERSON_VERB_DEFINITE_ENDING,1,execute
+WORD_PERSON_VERB_DEFINITE_ENDING,1,deliver
+WORD_PERSON_VERB_DEFINITE_ENDING,1,see around the corner
+WORD_PERSON_VERB_DEFINITE_ENDING,1,meet the surge
+WORD_PERSON_VERB_DEFINITE_ENDING,1,celebrate the success
+WORD_PERSON_VERB_DEFINITE_ENDING,1,circle back
+WORD_PERSON_VERB_DEFINITE_ENDING,1,action forward
+WORD_PERSON_VERB_DEFINITE_ENDING,1,move forward
+WORD_PERSON_VERB_DEFINITE_ENDING,1,take control
+WORD_PERSON_VERB_DEFINITE_ENDING,1,be cautiously optimistic
+WORD_PERSON_VERB_DEFINITE_ENDING,1,be committed
+WORD_PERSON_VERB_DEFINITE_ENDING,1,evolve our culture
+WORD_PERSON_VERB_DEFINITE_ENDING,1,leverage the benefits of our differentiation
+WORD_PERSON_VERB_DEFINITE_ENDING,1,stretch our data bucket
+WORD_PERSON_VERB_DEFINITE_ENDING,1,leapfrog the competition
+WORD_PERSON_VERB_DEFINITE_ENDING,1,take the elevator beyond the top floor
+WORD_PERSON_VERB_DEFINITE_ENDING,1,stick to the knitting
+WORD_PERSON_VERB_DEFINITE_ENDING,1,bring our vision to reality
+WORD_PERSON_VERB_DEFINITE_ENDING,1,seize opportunities
+WORD_PERSON_VERB_DEFINITE_ENDING,1,create momentum
+WORD_PERSON_VERB_DEFINITE_ENDING,1,generate company momentum
+WORD_PERSON_VERB_DEFINITE_ENDING,1,pursue new opportunities
+WORD_PERSON_VERB_DEFINITE_ENDING,1,increase adherence
+WORD_PERSON_VERB_DEFINITE_ENDING,1,focus on the right things
+WORD_PERSON_VERB_DEFINITE_ENDING,1,open the kimono
+WORD_PERSON_VERB_DEFINITE_ENDING,1,give 110%
+WORD_PERSON_VERB_DEFINITE_ENDING,1,take it to the next level
+WORD_PERSON_VERB_DEFINITE_ENDING,1,boil the ocean
+WORD_PERSON_VERB_DEFINITE_ENDING,1,close the loop
+WORD_PERSON_VERB_DEFINITE_ENDING,1,create value
+WORD_PERSON_VERB_DEFINITE_ENDING,1,disrupt the status quo
+WORD_PERSON_VERB_DEFINITE_ENDING,1,be on the same page
+WORD_PERSON_VERB_DEFINITE_ENDING,1,deliver greater value for our customers
+WORD_PERSON_VERB_DEFINITE_ENDING,1,generate new value for shareholders
+WORD_PERSON_VERB_DEFINITE_ENDING,1,strengthen the balance sheet
+WORD_PERSON_VERB_DEFINITE_ENDING,1,operate
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,address
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,identify
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,avoid
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,mitigate
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,minimize
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,overcome
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,tackle
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,reduce
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,alleviate
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,filter out
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,remove
+WORD_PERSON_HAVING_BAD_THING_COMPLEMENT,1,prevent
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,motivate
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,target
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,enable
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,drive
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,synergize
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,empower
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,prioritize
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,incentivise
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,inspire
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,transfer
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,promote
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,influence
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,strengthen
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,energize
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,invigorate
+WORD_PERSON_HAVING_PERSON_COMPLEMENT,1,reenergize
+WORD_THING_ADJECTIVE,1,efficient
+WORD_THING_ADJECTIVE,1,strategic
+WORD_THING_ADJECTIVE,1,constructive
+WORD_THING_ADJECTIVE,1,proactive
+WORD_THING_ADJECTIVE,1,strong
+WORD_THING_ADJECTIVE,1,key
+WORD_THING_ADJECTIVE,1,global
+WORD_THING_ADJECTIVE,1,corporate
+WORD_THING_ADJECTIVE,1,cost-effective
+WORD_THING_ADJECTIVE,1,focused
+WORD_THING_ADJECTIVE,1,top-line
+WORD_THING_ADJECTIVE,1,credible
+WORD_THING_ADJECTIVE,1,agile
+WORD_THING_ADJECTIVE,1,holistic
+WORD_THING_ADJECTIVE,1,new
+WORD_THING_ADJECTIVE,1,adaptive
+WORD_THING_ADJECTIVE,1,optimal
+WORD_THING_ADJECTIVE,1,unique
+WORD_THING_ADJECTIVE,1,core
+WORD_THING_ADJECTIVE,1,compliant
+WORD_THING_ADJECTIVE,1,goal-oriented
+WORD_THING_ADJECTIVE,1,non-linear
+WORD_THING_ADJECTIVE,1,problem-solving
+WORD_THING_ADJECTIVE,1,prioritizing
+WORD_THING_ADJECTIVE,1,cultural
+WORD_THING_ADJECTIVE,1,future-oriented
+WORD_THING_ADJECTIVE,1,potential
+WORD_THING_ADJECTIVE,1,versatile
+WORD_THING_ADJECTIVE,1,leading
+WORD_THING_ADJECTIVE,1,dynamic
+WORD_THING_ADJECTIVE,1,progressive
+WORD_THING_ADJECTIVE,1,non-deterministic
+WORD_THING_ADJECTIVE,1,informed
+WORD_THING_ADJECTIVE,1,leveraged
+WORD_THING_ADJECTIVE,1,challenging
+WORD_THING_ADJECTIVE,1,intelligent
+WORD_THING_ADJECTIVE,1,controlled
+WORD_THING_ADJECTIVE,1,educated
+WORD_THING_ADJECTIVE,1,non-standard
+WORD_THING_ADJECTIVE,1,underlying
+WORD_THING_ADJECTIVE,1,centralized
+WORD_THING_ADJECTIVE,1,decentralized
+WORD_THING_ADJECTIVE,1,reliable
+WORD_THING_ADJECTIVE,1,consistent
+WORD_THING_ADJECTIVE,1,competent
+WORD_THING_ADJECTIVE,1,prospective
+WORD_THING_ADJECTIVE,1,collateral
+WORD_THING_ADJECTIVE,1,functional
+WORD_THING_ADJECTIVE,1,tolerably expensive
+WORD_THING_ADJECTIVE,1,organic
+WORD_THING_ADJECTIVE,1,forward-looking
+WORD_THING_ADJECTIVE,1,next-level
+WORD_THING_ADJECTIVE,1,executive
+WORD_THING_ADJECTIVE,1,seamless
+WORD_THING_ADJECTIVE,1,spectral
+WORD_THING_ADJECTIVE,1,balanced
+WORD_THING_ADJECTIVE,1,effective
+WORD_THING_ADJECTIVE,1,integrated
+WORD_THING_ADJECTIVE,1,systematized
+WORD_THING_ADJECTIVE,1,parallel
+WORD_THING_ADJECTIVE,1,responsive
+WORD_THING_ADJECTIVE,1,synchronized
+WORD_THING_ADJECTIVE,1,carefully-designed
+WORD_THING_ADJECTIVE,1,carefully thought-out
+WORD_THING_ADJECTIVE,1,cascading
+WORD_THING_ADJECTIVE,1,high-level
+WORD_THING_ADJECTIVE,1,siloed
+WORD_THING_ADJECTIVE,1,operational
+WORD_THING_ADJECTIVE,1,future-ready
+WORD_THING_ADJECTIVE,1,flexible
+WORD_THING_ADJECTIVE,1,movable
+WORD_THING_ADJECTIVE,1,right
+WORD_THING_ADJECTIVE,1,productive
+WORD_THING_ADJECTIVE,1,evolutionary
+WORD_THING_ADJECTIVE,1,overarching
+WORD_THING_ADJECTIVE,1,documented
+WORD_THING_ADJECTIVE,1,awesome
+WORD_THING_ADJECTIVE,1,coordinated
+WORD_THING_ADJECTIVE,1,aligned
+WORD_THING_ADJECTIVE,1,enhanced
+WORD_THING_ADJECTIVE,1,control-based
+WORD_THING_ADJECTIVE,1,industry-standard
+WORD_THING_ADJECTIVE,1,accepted
+WORD_THING_ADJECTIVE,1,agreed-upon
+WORD_THING_ADJECTIVE,1,target
+WORD_THING_ADJECTIVE,1,customer-centric
+WORD_THING_ADJECTIVE,1,wide-spectrum
+WORD_THING_ADJECTIVE,1,well-communicated
+WORD_THING_ADJECTIVE,1,cutting-edge
+WORD_THING_ADJECTIVE,1,state-of-the-art
+WORD_THING_ADJECTIVE,1,verifiable
+WORD_THING_ADJECTIVE,1,six-sigma
+WORD_THING_ADJECTIVE,1,solid
+WORD_THING_ADJECTIVE,1,inspiring
+WORD_THING_ADJECTIVE,1,growing
+WORD_THING_ADJECTIVE,1,market-altering
+WORD_THING_ADJECTIVE,1,vertical
+WORD_THING_ADJECTIVE,1,emerging
+WORD_THING_ADJECTIVE,1,differentiating
+WORD_THING_ADJECTIVE,1,integrative
+WORD_THING_ADJECTIVE,1,cross-functional
+WORD_THING_ADJECTIVE,1,measurable
+WORD_THING_ADJECTIVE,1,well-planned
+WORD_THING_ADJECTIVE,1,accessible
+WORD_THING_ADJECTIVE,1,actionable
+WORD_THING_ADJECTIVE,1,accurate
+WORD_THING_ADJECTIVE,1,insightful
+WORD_THING_ADJECTIVE,1,relevant
+WORD_THING_ADJECTIVE,1,long-term
+WORD_THING_ADJECTIVE,1,longer-term
+WORD_THING_ADJECTIVE,1,tactical
+WORD_THING_ADJECTIVE,1,best-of-breed
+WORD_THING_ADJECTIVE,1,robust
+WORD_THING_ADJECTIVE,1,targeted
+WORD_THING_ADJECTIVE,1,personalized
+WORD_THING_ADJECTIVE,1,interactive
+WORD_THING_ADJECTIVE,1,streamlined
+WORD_THING_ADJECTIVE,1,transparent
+WORD_THING_ADJECTIVE,1,traceable
+WORD_THING_ADJECTIVE,1,far-reaching
+WORD_THING_ADJECTIVE,1,powerful
+WORD_THING_ADJECTIVE,1,improved
+WORD_THING_ADJECTIVE,1,executive-level
+WORD_THING_ADJECTIVE,1,goal-based
+WORD_THING_ADJECTIVE,1,top-level
+WORD_THING_ADJECTIVE,1,cooperative
+WORD_THING_ADJECTIVE,1,value-adding
+WORD_THING_ADJECTIVE,1,streamlining
+WORD_THING_ADJECTIVE,1,time-honored
+WORD_THING_ADJECTIVE,1,idiosyncratic
+WORD_THING_ADJECTIVE,1,sustainable
+WORD_THING_ADJECTIVE,1,in-depth
+WORD_THING_ADJECTIVE,1,immersive
+WORD_THING_ADJECTIVE,1,cross-industry
+WORD_THING_ADJECTIVE,1,time-phased
+WORD_THING_ADJECTIVE,1,day-to-day
+WORD_THING_ADJECTIVE,1,present-day
+WORD_THING_ADJECTIVE,1,modern-day
+WORD_THING_ADJECTIVE,1,profit-maximizing
+WORD_THING_ADJECTIVE,1,generic
+WORD_THING_ADJECTIVE,1,granular
+WORD_THING_ADJECTIVE,1,values-based
+WORD_THING_ADJECTIVE,1,value-driven
+WORD_THING_ADJECTIVE,1,well-defined
+WORD_THING_ADJECTIVE,1,outward-looking
+WORD_THING_ADJECTIVE,1,scalable
+WORD_THING_ADJECTIVE,1,strategy-focused
+WORD_THING_ADJECTIVE,1,promising
+WORD_THING_ADJECTIVE,1,collaborative
+WORD_THING_ADJECTIVE,1,scenario-based
+WORD_THING_ADJECTIVE,1,principle-based
+WORD_THING_ADJECTIVE,1,vision-setting
+WORD_THING_ADJECTIVE,1,client-oriented
+WORD_THING_ADJECTIVE,1,long-established
+WORD_THING_ADJECTIVE,1,established
+WORD_THING_ADJECTIVE,1,organizational
+WORD_THING_ADJECTIVE,1,visionary
+WORD_THING_ADJECTIVE,1,trusted
+WORD_THING_ADJECTIVE,1,full-scale
+WORD_THING_ADJECTIVE,1,firm-wide
+WORD_THING_ADJECTIVE,1,fast-growth
+WORD_THING_ADJECTIVE,1,performance-based
+WORD_THING_ADJECTIVE,1,data-inspired
+WORD_THING_ADJECTIVE,1,high-performance
+WORD_THING_ADJECTIVE,1,cross-enterprise
+WORD_THING_ADJECTIVE,1,outsourced
+WORD_THING_ADJECTIVE,1,situational
+WORD_THING_ADJECTIVE,1,bottom-up
+WORD_THING_ADJECTIVE,1,multidisciplinary
+WORD_THING_ADJECTIVE,1,one-to-one
+WORD_THING_ADJECTIVE,1,goal-directed
+WORD_THING_ADJECTIVE,1,intra-organisational
+WORD_THING_ADJECTIVE,1,high-performing
+WORD_THING_ADJECTIVE,1,multi-source
+WORD_THING_ADJECTIVE,1,360-degree
+WORD_THING_ADJECTIVE,1,motivational
+WORD_THING_ADJECTIVE,1,differentiated
+WORD_THING_ADJECTIVE,1,solutions-based
+WORD_THING_ADJECTIVE,1,compelling
+WORD_THING_ADJECTIVE,1,structural
+WORD_THING_ADJECTIVE,1,go-to-market
+WORD_THING_ADJECTIVE,1,on-message
+WORD_THING_ADJECTIVE,1,productivity-enhancing
+WORD_THING_ADJECTIVE,1,value-enhancing
+WORD_THING_ADJECTIVE,1,mission-critical
+WORD_THING_ADJECTIVE,1,business-enabling
+WORD_THING_ADJECTIVE,1,transitional
+WORD_THING_ADJECTIVE,1,future
+WORD_THING_ADJECTIVE,1,game-changing
+WORD_THING_ADJECTIVE,1,enterprise-wide
+WORD_THING_ADJECTIVE,1,rock-solid
+WORD_THING_ADJECTIVE,1,bullet-proof
+WORD_THING_ADJECTIVE,1,superior
+WORD_THING_ADJECTIVE,1,genuine
+WORD_THING_ADJECTIVE,1,alert
+WORD_THING_ADJECTIVE,1,nimble
+WORD_THING_ADJECTIVE,1,phased
+WORD_THING_ADJECTIVE,1,selective
+WORD_THING_ADJECTIVE,1,macroscopic
+WORD_THING_ADJECTIVE,1,low-risk high-yield
+WORD_THING_ADJECTIVE,1,interconnected
+WORD_THING_ADJECTIVE,1,high-margin
+WORD_THING_ADJECTIVE,1,resilient
+WORD_THING_ADJECTIVE,1,high-definition
+WORD_THING_ADJECTIVE,1,well-crafted
+WORD_THING_ADJECTIVE,1,fine-grained
+WORD_THING_ADJECTIVE,1,context-aware
+WORD_THING_ADJECTIVE,1,multi-tasked
+WORD_THING_ADJECTIVE,1,feedback-based
+WORD_THING_ADJECTIVE,1,analytics-based
+WORD_THING_ADJECTIVE,1,fact-based
+WORD_THING_ADJECTIVE,1,usage-based
+WORD_THING_ADJECTIVE,1,multi-channel
+WORD_THING_ADJECTIVE,1,omni-channel
+WORD_THING_ADJECTIVE,1,cross-channel
+WORD_THING_ADJECTIVE,1,specific
+WORD_THING_ADJECTIVE,1,heart-of-the-business
+WORD_THING_ADJECTIVE,1,responsible
+WORD_THING_ADJECTIVE,1,socially conscious
+WORD_THING_ADJECTIVE,1,results-centric
+WORD_THING_ADJECTIVE,1,business-led
+WORD_THING_ADJECTIVE,1,well-positioned
+WORD_THING_ADJECTIVE,1,end-to-end
+WORD_THING_ADJECTIVE,1,high-quality
+WORD_THING_ADJECTIVE,1,siloed
+WORD_THING_ADJECTIVE,1,modular
+WORD_THING_ADJECTIVE,1,service-oriented
+WORD_THING_ADJECTIVE,1,competitive
+WORD_THING_ADJECTIVE,1,scale-as-you-grow
+WORD_THING_ADJECTIVE,1,outside-in
+WORD_THING_ADJECTIVE,1,hyper-hybrid
+WORD_THING_ADJECTIVE,1,long-running
+WORD_THING_ADJECTIVE,1,large-scale
+WORD_THING_ADJECTIVE,1,wide-ranging
+WORD_THING_ADJECTIVE,1,wide-range
+WORD_THING_ADJECTIVE,1,stellar
+WORD_THING_ADJECTIVE,1,dramatic
+WORD_THING_ADJECTIVE,1,aggressive
+WORD_THING_ADJECTIVE,1,innovative
+WORD_THING_ADJECTIVE,1,high-powered
+WORD_THING_ADJECTIVE,1,above-average
+WORD_THING_ADJECTIVE,1,result-driven
+WORD_THING_ADJECTIVE,1,innovation-driven
+WORD_THING_ADJECTIVE,1,customized
+WORD_THING_ADJECTIVE,1,outstanding
+WORD_THING_ADJECTIVE,1,non-mainstream
+WORD_THING_ADJECTIVE,1,customer-facing
+WORD_THING_ADJECTIVE,1,consumer-facing
+WORD_THING_ADJECTIVE,1,unified
+WORD_THING_ADJECTIVE,1,cooperative
+WORD_THING_ADJECTIVE,1,laser-focused
+WORD_THING_ADJECTIVE,1,well-implemented
+WORD_THING_ADJECTIVE,1,diversifying
+WORD_THING_ADJECTIVE,1,market-changing
+WORD_THING_ADJECTIVE,1,metrics-driven
+WORD_THING_ADJECTIVE,1,pre-integrated
+WORD_THING_ADJECTIVE,1,solution-oriented
+WORD_THING_ADJECTIVE,1,impactful
+WORD_THING_ADJECTIVE,1,world-class
+WORD_THING_ADJECTIVE,1,front-end
+WORD_THING_ADJECTIVE,1,leading-edge
+WORD_THING_ADJECTIVE,1,cost-competitive
+WORD_THING_ADJECTIVE,1,extensible
+WORD_THING_ADJECTIVE,1,under-the-radar
+WORD_THING_ADJECTIVE,1,high-grade
+WORD_THING_ADJECTIVE,1,structured
+WORD_THING_ADJECTIVE,1,trust-based
+WORD_THING_ADJECTIVE,1,intra-company
+WORD_THING_ADJECTIVE,1,inter-company
+WORD_THING_ADJECTIVE,1,profit-oriented
+WORD_THING_ADJECTIVE,1,sizeable
+WORD_THING_ADJECTIVE,1,highly satisfactory
+WORD_THING_ADJECTIVE,1,bi-face
+WORD_THING_ADJECTIVE,1,tri-face
+WORD_THING_ADJECTIVE,1,disruptive
+WORD_THING_ADJECTIVE,1,technological
+WORD_THING_ADJECTIVE,1,marketplace
+WORD_THING_ADJECTIVE,1,fast-evolving
+WORD_THING_ADJECTIVE,1,open
+WORD_THING_ADJECTIVE,1,fully networked
+WORD_THING_ADJECTIVE,1,adoptable
+WORD_THING_ADJECTIVE,1,trustworthy
+WORD_THING_ADJECTIVE,1,science-based
+WORD_THING_ADJECTIVE,1,non-manufacturing
+WORD_THING_ADJECTIVE,1,multi-divisional
+WORD_THING_ADJECTIVE,1,controllable
+WORD_THING_ADJECTIVE,1,high-priority
+WORD_THING_ADJECTIVE,1,market-driven
+WORD_THING_ADJECTIVE,1,market-driving
+WORD_THING_ADJECTIVE,1,ingenious
+WORD_THING_ADJECTIVE,1,business-for-business
+WORD_THING_ADJECTIVE,1,inspirational
+WORD_THING_ADJECTIVE,1,winning
+WORD_THING_ADJECTIVE,1,boundaryless
+WORD_THING_ADJECTIVE,1,reality-based
+WORD_THING_ADJECTIVE,1,customer-focused
+WORD_THING_ADJECTIVE,1,preemptive
+WORD_THING_ADJECTIVE,1,location-specific
+WORD_THING_ADJECTIVE,1,revealing
+WORD_THING_ADJECTIVE,1,inventory-planning
+WORD_THING_ADJECTIVE,1,ubiquitous
+WORD_THING_ADJECTIVE,1,number-one
+WORD_THING_ADJECTIVE,1,results-oriented
+WORD_THING_ADJECTIVE,1,socially enabled
+WORD_THING_ADJECTIVE,1,well-scoped
+WORD_THING_ADJECTIVE,1,insight-based
+WORD_THING_ADJECTIVE,1,high-impact
+WORD_THING_ADJECTIVE,1,technology-driven
+WORD_THING_ADJECTIVE,1,knowledge-based
+WORD_THING_ADJECTIVE,1,information-age
+WORD_THING_ADJECTIVE,1,technology-centered
+WORD_THING_ADJECTIVE,1,critical
+WORD_THING_ADJECTIVE,1,cognitive
+WORD_THING_ADJECTIVE,1,acculturated
+WORD_THING_ADJECTIVE,1,client-centric
+WORD_THING_ADJECTIVE,1,comprehensive
+WORD_THING_ADJECTIVE,1,ground-breaking
+WORD_THING_ADJECTIVE,1,long-standing
+WORD_THING_ADJECTIVE,1,accelerating
+WORD_THING_ADJECTIVE,1,forward-thinking
+WORD_THING_ADJECTIVE,1,mind-blowing
+WORD_THING_ADJECTIVE,1,jaw-dropping
+WORD_THING_ADJECTIVE,1,transformative
+WORD_THING_ADJECTIVE,1,better-than-planned
+WORD_THING_ADJECTIVE,1,vital
+WORD_THING_ADJECTIVE,1,radical
+WORD_THING_ADJECTIVE,1,expanding
+WORD_THING_ADJECTIVE,1,fierce
+WORD_THING_ADJECTIVE,1,single-minded
+WORD_THING_ADJECTIVE,1,mindful
+WORD_THING_ADJECTIVE,1,top-down
+WORD_THING_ADJECTIVE,1,hands-on
+WORD_THING_ADJECTIVE,1,one-on-one
+WORD_THING_ADJECTIVE,1,analytic
+WORD_THING_ADJECTIVE,1,top
+WORD_THING_ADJECTIVE,1,elite
+WORD_THING_ADJECTIVE,1,dedicated
+WORD_THING_ADJECTIVE,1,curated
+WORD_THING_ADJECTIVE,1,highly-curated
+WORD_THING_ADJECTIVE,1,re-imagined
+WORD_THING_ADJECTIVE,1,thought-provoking
+WORD_THING_ADJECTIVE,1,quality-oriented
+WORD_THING_ADJECTIVE,1,task-oriented
+WORD_THING_ADJECTIVE,1,teamwork-oriented
+WORD_THING_ADJECTIVE,1,high-growth
+WORD_THING_ADJECTIVE,1,next-gen
+WORD_THING_ADJECTIVE,1,next-generation
+WORD_THING_ADJECTIVE,1,new-generation
+WORD_THING_ADJECTIVE,1,best-in-class
+WORD_THING_ADJECTIVE,1,best-of-class
+WORD_THING_ADJECTIVE,1,first-class
+WORD_THING_ADJECTIVE,1,top-class
+WORD_THING_ADJECTIVE,1,superior-quality
+WORD_THING_ADJECTIVE,1,synergistic
+WORD_THING_ADJECTIVE,1,micro-macro
+WORD_THING_ADJECTIVE,1,organization-wide
+WORD_THING_ADJECTIVE,1,clear-cut
+WORD_THING_ADJECTIVE,1,data-driven
+WORD_THING_ADJECTIVE,1,evidence-based
+WORD_THING_ADJECTIVE,1,transformational
+WORD_THING_ADJECTIVE,1,fast-paced
+WORD_THING_ADJECTIVE,1,real-time
+WORD_THING_ADJECTIVE,1,pre-approved
+WORD_THING_ADJECTIVE,1,unconventional
+WORD_THING_ADJECTIVE,1,advanced-analytics
+WORD_THING_ADJECTIVE,1,insight-driven
+WORD_THING_ADJECTIVE,1,sprint-based
+WORD_THING_ADJECTIVE,1,digitized
+WORD_THING_ADJECTIVE,1,hypothesis-driven
+WORD_THING_ADJECTIVE,1,governance-related
+WORD_THING_ADJECTIVE,1,convergent
+WORD_THING_ADJECTIVE,1,leadership-defined
+WORD_THING_ADJECTIVE,1,operations-oriented
+WORD_THING_ADJECTIVE,1,long-range
+WORD_THING_ADJECTIVE,1,dimensional
+WORD_THING_ADJECTIVE,1,award-winning
+WORD_THING_ADJECTIVE,1,user-centric
+WORD_THING_ADJECTIVE,1,first-to-market
+WORD_THING_ADJECTIVE,1,first-mover
+WORD_THING_ADJECTIVE,1,cross-platform
+WORD_THING_ADJECTIVE,1,on-the-go
+WORD_THING_ADJECTIVE,1,all-encompassing
+WORD_THING_ADJECTIVE,1,matrixed
+WORD_THING_ADJECTIVE,1,growth-enabling
+WORD_THING_ADJECTIVE,1,skills-based
+WORD_THING_ADJECTIVE,1,bottom-line
+WORD_THING_ADJECTIVE,1,top-shelf
+WORD_THING_ADJECTIVE,1,insourced
+WORD_THING_ADJECTIVE,1,out-of-the-box
+WORD_THING_ADJECTIVE,1,engaging
+WORD_THING_ADJECTIVE,1,on- and offline
+WORD_THING_ADJECTIVE,1,goals-based
+WORD_THING_ADJECTIVE,1,enriching
+WORD_THING_ADJECTIVE,1,medium-to-long-term
+WORD_THING_ADJECTIVE,1,adequate
+WORD_THING_ADJECTIVE,1,awareness-raising
+WORD_THING_ADJECTIVE,1,compatible
+WORD_THING_ADJECTIVE,1,supportive
+WORD_THING_ADJECTIVE,1,inspired
+WORD_THING_ADJECTIVE,1,high-return
+WORD_THING_ADJECTIVE,1,turn-key
+WORD_THING_ADJECTIVE,1,turnkey
+WORD_THING_ADJECTIVE,1,decision-ready
+WORD_THING_ADJECTIVE,1,diversified
+WORD_THING_ADJECTIVE,1,demanding
+WORD_THING_ADJECTIVE,1,ambitious
+WORD_THING_ADJECTIVE,1,domain-relevant
+WORD_THING_ADJECTIVE,1,novel
+WORD_THING_ADJECTIVE,1,pre-planned
+WORD_THING_ADJECTIVE,1,well-respected
+WORD_THING_ADJECTIVE,1,market-based
+WORD_THING_ADJECTIVE,1,distributor-based
+WORD_THING_ADJECTIVE,1,area-wide
+WORD_THING_ADJECTIVE,1,movements-based
+WORD_THING_ADJECTIVE,1,ever-changing
+WORD_THING_ADJECTIVE,1,purpose-driven
+WORD_THING_ADJECTIVE,1,resourceful
+WORD_THING_ADJECTIVE,1,real-life
+WORD_THING_ADJECTIVE,1,vibrant
+WORD_THING_ADJECTIVE,1,bright
+WORD_THING_ADJECTIVE,1,pure-play
+WORD_THING_ADJECTIVE,1,bespoke
+WORD_THING_ADJECTIVE,1,pivotal
+WORD_THING_ADJECTIVE,1,efficiency-enhancing
+WORD_THING_ADJECTIVE,1,multi-level
+WORD_THING_ADJECTIVE,1,rich
+WORD_THING_ADJECTIVE,1,frictionless
+WORD_THING_ADJECTIVE,1,up-to-the-minute
+WORD_THING_ADJECTIVE,1,sourced
+WORD_THING_ADJECTIVE,1,outcome-driven
+WORD_THING_ADJECTIVE,1,hyperaware
+WORD_THING_ADJECTIVE,1,high-velocity
+WORD_THING_ADJECTIVE,1,lean
+WORD_THING_ADJECTIVE,1,unmatched
+WORD_THING_ADJECTIVE,1,industry-leading
+WORD_THING_ADJECTIVE,1,multi-sided
+WORD_THING_ADJECTIVE,1,tailor-made
+WORD_THING_ADJECTIVE,1,contingent
+WORD_THING_ADJECTIVE,1,tangent
+WORD_THING_ADJECTIVE,1,moment-centric
+WORD_THING_ADJECTIVE,1,real-world
+WORD_THING_ADJECTIVE,1,inclusive
+WORD_THING_ADJECTIVE,1,efficiency-enabling
+WORD_THING_ADJECTIVE,1,value-creating
+WORD_THING_ADJECTIVE,1,alternative
+WORD_THING_ADJECTIVE,1,fit-for-purpose
+WORD_THING_ADJECTIVE,1,fast-changing
+WORD_THING_ADJECTIVE,1,onboarded
+WORD_THING_ADJECTIVE,1,active
+WORD_THING_ADJECTIVE,1,container packaged
+WORD_THING_ADJECTIVE,1,dynamically managed
+WORD_THING_ADJECTIVE,1,microservices-oriented
+WORD_THING_ADJECTIVE,1,higher-quality
+WORD_THING_ADJECTIVE,1,brute-force
+WORD_THING_ADJECTIVE,1,enterprise-sales-driven
+WORD_THING_ADJECTIVE,1,developer-led
+WORD_THING_ADJECTIVE,1,fast-track
+WORD_THING_ADJECTIVE,1,highly differentiated
+WORD_THING_ADJECTIVE,1,quick-to-deploy
+WORD_THING_ADJECTIVE,1,efficiency-focused
+WORD_THING_ADJECTIVE,1,as-a-service
+WORD_THING_ADJECTIVE,1,cloud-based
+WORD_THING_ADJECTIVE,1,activity-centric
+WORD_THING_ADJECTIVE,1,data-centric
+WORD_THING_ADJECTIVE,1,activity-focused
+WORD_THING_ADJECTIVE,1,data-focused
+WORD_THING_ADJECTIVE,1,workforce-focused
+WORD_THING_ADJECTIVE,1,organization-focused
+WORD_THING_ADJECTIVE,1,spot-on
+WORD_THING_ADJECTIVE,1,distributed
+WORD_THING_ADJECTIVE,1,deterministic
+WORD_THING_ADJECTIVE,1,converged
+WORD_THING_ADJECTIVE,1,on-premise
+WORD_THING_ADJECTIVE,1,company-first
+WORD_THING_ADJECTIVE,1,multi-vendor
+WORD_THING_ADJECTIVE,1,contextual
+WORD_THING_ADJECTIVE,1,hybrid
+WORD_THING_ADJECTIVE,1,higher-level
+WORD_THING_ADJECTIVE,1,user-driven
+WORD_THING_ADJECTIVE,1,full-stack
+WORD_THING_ADJECTIVE,1,build-as-you-go
+WORD_THING_ADJECTIVE,1,fully-digital
+WORD_THING_ADJECTIVE,1,agent-based
+WORD_THING_ADJECTIVE,1,AI-ready
+WORD_THING_ADJECTIVE,1,managerial
+WORD_THING_ADJECTIVE,1,industry-recognized
+WORD_THING_ADJECTIVE,1,top-ranking
+WORD_THING_ATOM,1,team building
+WORD_THING_ATOM,1,focus
+WORD_THING_ATOM,1,strategy
+WORD_THING_ATOM,1,planning granularity
+WORD_THING_ATOM,1,core business
+WORD_THING_ATOM,1,implementation
+WORD_THING_ATOM,1,intelligence
+WORD_THING_ATOM,1,change management
+WORD_THING_ATOM,1,ROE
+WORD_THING_ATOM,1,EBITDA
+WORD_THING_ATOM,1,enterprise content management
+WORD_THING_ATOM,1,excellence
+WORD_THING_ATOM,1,trust
+WORD_THING_ATOM,1,respect
+WORD_THING_ATOM,1,openness
+WORD_THING_ATOM,1,transparency
+WORD_THING_ATOM,1,decision making
+WORD_THING_ATOM,1,risk management
+WORD_THING_ATOM,1,enterprise risk management
+WORD_THING_ATOM,1,leverage
+WORD_THING_ATOM,1,diversification
+WORD_THING_ATOM,1,successful execution
+WORD_THING_ATOM,1,effective execution
+WORD_THING_ATOM,1,selectivity
+WORD_THING_ATOM,1,optionality
+WORD_THING_ATOM,1,expertise
+WORD_THING_ATOM,1,awareness
+WORD_THING_ATOM,1,broader thinking
+WORD_THING_ATOM,1,client focus
+WORD_THING_ATOM,1,thought leadership
+WORD_THING_ATOM,1,quest for quality
+WORD_THING_ATOM,1,360-degree thinking
+WORD_THING_ATOM,1,drill-down
+WORD_THING_ATOM,1,impetus
+WORD_THING_ATOM,1,fairness
+WORD_THING_ATOM,1,intellect
+WORD_THING_ATOM,1,emotional impact
+WORD_THING_ATOM,1,emotional intelligence
+WORD_THING_ATOM,1,adaptability
+WORD_THING_ATOM,1,stress management
+WORD_THING_ATOM,1,self-awareness
+WORD_THING_ATOM,1,strategic thinking
+WORD_THING_ATOM,1,cross-fertilization
+WORD_THING_ATOM,1,effectiveness
+WORD_THING_ATOM,1,SWOT analysis
+WORD_THING_ATOM,1,responsibility
+WORD_THING_ATOM,1,accountability
+WORD_THING_ATOM,1,ROI
+WORD_THING_ATOM,1,line of business
+WORD_THING_ATOM,1,serviceability
+WORD_THING_ATOM,1,responsiveness
+WORD_THING_ATOM,1,simplicity
+WORD_THING_ATOM,1,portfolio shaping
+WORD_THING_ATOM,1,knowledge sharing
+WORD_THING_ATOM,1,continuity
+WORD_THING_ATOM,1,visual thinking
+WORD_THING_ATOM,1,interoperability
+WORD_THING_ATOM,1,compliance
+WORD_THING_ATOM,1,teamwork
+WORD_THING_ATOM,1,self-efficacy
+WORD_THING_ATOM,1,decision-maker
+WORD_THING_ATOM,1,line-of-sight
+WORD_THING_ATOM,1,scoping
+WORD_THING_ATOM,1,line-up
+WORD_THING_ATOM,1,predictability
+WORD_THING_ATOM,1,recognition
+WORD_THING_ATOM,1,investor confidence
+WORD_THING_ATOM,1,competitive advantage
+WORD_THING_ATOM,1,uniformity
+WORD_THING_ATOM,1,competitiveness
+WORD_THING_ATOM,1,big picture
+WORD_THING_ATOM,1,resourcefulness
+WORD_THING_ATOM,1,quality
+WORD_THING_ATOM,1,upside focus
+WORD_THING_ATOM,1,sustainability
+WORD_THING_ATOM,1,resiliency
+WORD_THING_ATOM,1,social sphere
+WORD_THING_ATOM,1,intuitiveness
+WORD_THING_ATOM,1,effectiveness
+WORD_THING_ATOM,1,competitiveness
+WORD_THING_ATOM,1,resourcefulness
+WORD_THING_ATOM,1,informationalization
+WORD_THING_ATOM,1,role building
+WORD_THING_ATOM,1,talent retention
+WORD_THING_ATOM,1,innovativeness
+WORD_THING_ATOM,1,Economic Value Creation
+WORD_THING_ATOM,1,intellectual capital
+WORD_THING_ATOM,1,high quality
+WORD_THING_ATOM,1,full range of products
+WORD_THING_ATOM,1,technical strength
+WORD_THING_ATOM,1,quality assurance
+WORD_THING_ATOM,1,specification quality
+WORD_THING_ATOM,1,market environment
+WORD_THING_ATOM,1,client perspective
+WORD_THING_ATOM,1,solution orientation
+WORD_THING_ATOM,1,client satisfaction
+WORD_THING_ATOM,1,integrity
+WORD_THING_ATOM,1,reputation
+WORD_THING_ATOM,1,time-to-market
+WORD_THING_ATOM,1,innovative edge
+WORD_THING_ATOM,1,book value growth
+WORD_THING_ATOM,1,global network
+WORD_THING_ATOM,1,ability to deliver
+WORD_THING_ATOM,1,active differentiation
+WORD_THING_ATOM,1,solid profitability
+WORD_THING_ATOM,1,core capacity
+WORD_THING_ATOM,1,digital economy
+WORD_THING_ATOM,1,white-collar productivity
+WORD_THING_ATOM,1,white-collar efficiency
+WORD_THING_ATOM,1,governance
+WORD_THING_ATOM,1,corporate governance
+WORD_THING_ATOM,1,business development
+WORD_THING_ATOM,1,corporate identity
+WORD_THING_ATOM,1,attractiveness
+WORD_THING_ATOM,1,design philosophy
+WORD_THING_ATOM,1,global footprint
+WORD_THING_ATOM,1,risk taking
+WORD_THING_ATOM,1,focus on speed
+WORD_THING_ATOM,1,business equation
+WORD_THING_ATOM,1,edge
+WORD_THING_ATOM,1,ownership
+WORD_THING_ATOM,1,competitive success
+WORD_THING_ATOM,1,discipline
+WORD_THING_ATOM,1,knowledge management
+WORD_THING_ATOM,1,ability to move fast
+WORD_THING_ATOM,1,ingenuity
+WORD_THING_ATOM,1,insightfulness
+WORD_THING_ATOM,1,integrativeness
+WORD_THING_ATOM,1,customer footprint
+WORD_THING_ATOM,1,time-to-value
+WORD_THING_ATOM,1,efficacy
+WORD_THING_ATOM,1,DNA
+WORD_THING_ATOM,1,dedication
+WORD_THING_ATOM,1,franchise
+WORD_THING_ATOM,1,global reach
+WORD_THING_ATOM,1,global touch-base
+WORD_THING_ATOM,1,technical excellence
+WORD_THING_ATOM,1,values congruence
+WORD_THING_ATOM,1,purpose
+WORD_THING_ATOM,1,catalyst for growth
+WORD_THING_ATOM,1,goal setting
+WORD_THING_ATOM,1,craftsmanship
+WORD_THING_ATOM,1,operational excellence
+WORD_THING_ATOM,1,re-engineering
+WORD_THING_ATOM,1,mindfulness
+WORD_THING_ATOM,1,quality thinking
+WORD_THING_ATOM,1,user experience
+WORD_THING_ATOM,1,speed of execution
+WORD_THING_ATOM,1,responsive design
+WORD_THING_ATOM,1,readiness to go 'all-in'
+WORD_THING_ATOM,1,machine intelligence
+WORD_THING_ATOM,1,creativity
+WORD_THING_ATOM,1,can-do attitude
+WORD_THING_ATOM,1,relevance
+WORD_THING_ATOM,1,disruption
+WORD_THING_ATOM,1,dematerialization
+WORD_THING_ATOM,1,disintermediation
+WORD_THING_ATOM,1,disaggregation
+WORD_THING_ATOM,1,wave of change
+WORD_THING_ATOM,1,digitalization
+WORD_THING_ATOM,1,CAPEX
+WORD_THING_ATOM,1,window of opportunity
+WORD_THING_ATOM,1,beta
+WORD_THING_ATOM,1,coopetition
+WORD_THING_ATOM,1,digital change
+WORD_THING_ATOM,1,business excellence
+WORD_THING_ATOM,1,business impact
+WORD_THING_ATOM,1,business acumen
+WORD_THING_ATOM,1,leadership culture
+WORD_THING_ATOM,1,glocalization
+WORD_THING_ATOM,1,re-equitizing
+WORD_THING_ATOM,1,cost rationalization
+WORD_THING_ATOM,1,strategic optionality
+WORD_THING_ATOM,1,product expertise
+WORD_THING_ATOM,1,velocity
+WORD_THING_ATOM,1,elasticity
+WORD_THING_ATOM,1,value stream management
+WORD_THING_ATOM,1,digital acceleration
+WORD_THING_ATOM,1,quality control
+WORD_THING_ATOM,1,decision-making
+WORD_THING_ATOM,1,digital business
+WORD_THING_ATOM,1,Organizational Intelligence
+WORD_THING_ATOM,1,Business Intelligence
+WORD_THING_ATOM,1,self-actualization
+WORD_THING_ATOM,1,leadership effectiveness
+WORD_THING_ATOM,1,customer's journey
+WORD_THING_ATOM,1,adding services
+WORD_THING_ATOM,1,centerpiece
+WORD_THING_ATOM,1,modern simplicity
+WORD_THING_ATOM,1,cost control
+WORD_THING_ATOM,1,operations delivery
+WORD_THING_ATOM,1,guidance
+WORD_THING_ATOM,1,onboarding
+WORD_THING_ATOM,1,cost structure
+WORD_THING_ATOM,1,traction
+WORD_THING_ATOM,1,ethos
+WORD_THING_ATOM,1,auditability
+WORD_THING_ATOM_PLURAL,1,key target markets
+WORD_THING_ATOM_PLURAL,1,style guidelines
+WORD_THING_ATOM_PLURAL,1,key performance indicators
+WORD_THING_ATOM_PLURAL,1,market conditions
+WORD_THING_ATOM_PLURAL,1,market forces
+WORD_THING_ATOM_PLURAL,1,market opportunities
+WORD_THING_ATOM_PLURAL,1,tactics
+WORD_THING_ATOM_PLURAL,1,organizing principles
+WORD_THING_ATOM_PLURAL,1,interpersonal skills
+WORD_THING_ATOM_PLURAL,1,roles and responsibilities
+WORD_THING_ATOM_PLURAL,1,cost savings
+WORD_THING_ATOM_PLURAL,1,lessons learned
+WORD_THING_ATOM_PLURAL,1,client needs
+WORD_THING_ATOM_PLURAL,1,requests / solutions
+WORD_THING_ATOM_PLURAL,1,mobile strategies
+WORD_THING_ATOM_PLURAL,1,expectations and allocations
+WORD_THING_ATOM_PLURAL,1,workshops
+WORD_THING_ATOM_PLURAL,1,dynamics
+WORD_THING_ATOM_PLURAL,1,options
+WORD_THING_ATOM_PLURAL,1,aspirations
+WORD_THING_ATOM_PLURAL,1,swim lanes
+WORD_THING_ATOM_PLURAL,1,pockets of opportunities
+WORD_THING_ATOM_PLURAL,1,social implications
+WORD_THING_ATOM_PLURAL,1,analytics
+WORD_THING_ATOM_PLURAL,1,advanced analytics
+WORD_THING_ATOM_PLURAL,1,growth years
+WORD_THING_ATOM_PLURAL,1,big data
+WORD_THING_ATOM_PLURAL,1,adjacencies
+WORD_THING_ATOM_PLURAL,1,core competences
+WORD_THING_ATOM_PLURAL,1,strengths
+WORD_THING_ATOM_PLURAL,1,corporate values
+WORD_THING_ATOM_PLURAL,1,core values
+WORD_THING_ATOM_PLURAL,1,competitive dynamics
+WORD_THING_ATOM_PLURAL,1,workforce adjustments
+WORD_THING_ATOM_PLURAL,1,lessons learned
+WORD_THING_ATOM_PLURAL,1,core verticals
+WORD_THING_ATOM_PLURAL,1,metrics
+WORD_THING_ATOM_PLURAL,1,cost-control measures
+WORD_THING_ATOM_PLURAL,1,expectations
+WORD_THING_ATOM_PLURAL,1,data practices
+WORD_THING_INNER,1,mission
+WORD_THING_INNER,1,vision
+WORD_THING_INNER,1,guideline
+WORD_THING_INNER,1,roadmap
+WORD_THING_INNER,1,timeline
+WORD_THING_INNER,1,win-win solution
+WORD_THING_INNER,1,baseline starting point
+WORD_THING_INNER,1,sign-off
+WORD_THING_INNER,1,escalation
+WORD_THING_INNER,1,system
+WORD_THING_INNER,1,planning
+WORD_THING_INNER,1,target
+WORD_THING_INNER,1,calibration
+WORD_THING_INNER,1,process
+WORD_THING_INNER,1,talent
+WORD_THING_INNER,1,execution
+WORD_THING_INNER,1,leadership
+WORD_THING_INNER,1,performance
+WORD_THING_INNER,1,solution provider
+WORD_THING_INNER,1,value
+WORD_THING_INNER,1,value creation
+WORD_THING_INNER,1,value realization
+WORD_THING_INNER,1,document
+WORD_THING_INNER,1,bottom line
+WORD_THING_INNER,1,momentum
+WORD_THING_INNER,1,opportunity
+WORD_THING_INNER,1,credibility
+WORD_THING_INNER,1,issue
+WORD_THING_INNER,1,core meeting
+WORD_THING_INNER,1,platform
+WORD_THING_INNER,1,niche
+WORD_THING_INNER,1,content
+WORD_THING_INNER,1,communication
+WORD_THING_INNER,1,goal
+WORD_THING_INNER,1,value creation goal
+WORD_THING_INNER,1,alternative
+WORD_THING_INNER,1,culture
+WORD_THING_INNER,1,requirement
+WORD_THING_INNER,1,potential
+WORD_THING_INNER,1,challenge
+WORD_THING_INNER,1,empowerment
+WORD_THING_INNER,1,benchmarking
+WORD_THING_INNER,1,framework
+WORD_THING_INNER,1,benchmark
+WORD_THING_INNER,1,implication
+WORD_THING_INNER,1,integration
+WORD_THING_INNER,1,enabler
+WORD_THING_INNER,1,control
+WORD_THING_INNER,1,trend
+WORD_THING_INNER,1,business case
+WORD_THING_INNER,1,architecture
+WORD_THING_INNER,1,action plan
+WORD_THING_INNER,1,project
+WORD_THING_INNER,1,review cycle
+WORD_THING_INNER,1,trigger event
+WORD_THING_INNER,1,strategy formulation
+WORD_THING_INNER,1,decision
+WORD_THING_INNER,1,enhanced data capture
+WORD_THING_INNER,1,energy
+WORD_THING_INNER,1,plan
+WORD_THING_INNER,1,initiative
+WORD_THING_INNER,1,priority
+WORD_THING_INNER,1,synergy
+WORD_THING_INNER,1,incentive
+WORD_THING_INNER,1,dialogue
+WORD_THING_INNER,1,concept
+WORD_THING_INNER,1,time-phase
+WORD_THING_INNER,1,projection
+WORD_THING_INNER,1,blended approach
+WORD_THING_INNER,1,low hanging fruit
+WORD_THING_INNER,1,forward planning
+WORD_THING_INNER,1,pre-plan
+WORD_THING_INNER,1,pipeline
+WORD_THING_INNER,1,bandwidth
+WORD_THING_INNER,1,workshop
+WORD_THING_INNER,1,paradigm
+WORD_THING_INNER,1,paradigm shift
+WORD_THING_INNER,1,strategic staircase
+WORD_THING_INNER,1,cornerstone
+WORD_THING_INNER,1,executive talent
+WORD_THING_INNER,1,evolution
+WORD_THING_INNER,1,workflow
+WORD_THING_INNER,1,message
+WORD_THING_INNER,1,risk/return profile
+WORD_THING_INNER,1,efficient frontier
+WORD_THING_INNER,1,pillar
+WORD_THING_INNER,1,internal client
+WORD_THING_INNER,1,consistency
+WORD_THING_INNER,1,on-boarding process
+WORD_THING_INNER,1,dotted line
+WORD_THING_INNER,1,action item
+WORD_THING_INNER,1,cost efficiency
+WORD_THING_INNER,1,channel
+WORD_THING_INNER,1,convergence
+WORD_THING_INNER,1,infrastructure
+WORD_THING_INNER,1,metric
+WORD_THING_INNER,1,technology
+WORD_THING_INNER,1,relationship
+WORD_THING_INNER,1,partnership
+WORD_THING_INNER,1,supply-chain
+WORD_THING_INNER,1,portal
+WORD_THING_INNER,1,solution
+WORD_THING_INNER,1,business line
+WORD_THING_INNER,1,white paper
+WORD_THING_INNER,1,scalability
+WORD_THING_INNER,1,innovation
+WORD_THING_INNER,1,Balanced Scorecard
+WORD_THING_INNER,1,key differentiator
+WORD_THING_INNER,1,competitive differentiator
+WORD_THING_INNER,1,idiosyncrasy
+WORD_THING_INNER,1,benefit
+WORD_THING_INNER,1,say/do ratio
+WORD_THING_INNER,1,segmentation
+WORD_THING_INNER,1,image
+WORD_THING_INNER,1,business model
+WORD_THING_INNER,1,business philosophy
+WORD_THING_INNER,1,branding
+WORD_THING_INNER,1,methodology
+WORD_THING_INNER,1,profile
+WORD_THING_INNER,1,measure
+WORD_THING_INNER,1,measurement
+WORD_THING_INNER,1,philosophy
+WORD_THING_INNER,1,branding strategy
+WORD_THING_INNER,1,efficiency
+WORD_THING_INNER,1,industry
+WORD_THING_INNER,1,commitment
+WORD_THING_INNER,1,perspective
+WORD_THING_INNER,1,risk appetite
+WORD_THING_INNER,1,best practice
+WORD_THING_INNER,1,brand identity
+WORD_THING_INNER,1,customer centricity
+WORD_THING_INNER,1,shareholder value
+WORD_THING_INNER,1,attitude
+WORD_THING_INNER,1,mindset
+WORD_THING_INNER,1,flexibility
+WORD_THING_INNER,1,granularity
+WORD_THING_INNER,1,engagement
+WORD_THING_INNER,1,pyramid
+WORD_THING_INNER,1,market
+WORD_THING_INNER,1,diversity
+WORD_THING_INNER,1,interdependency
+WORD_THING_INNER,1,scaling
+WORD_THING_INNER,1,asset
+WORD_THING_INNER,1,flow charting
+WORD_THING_INNER,1,value proposition
+WORD_THING_INNER,1,performance culture
+WORD_THING_INNER,1,change
+WORD_THING_INNER,1,reward
+WORD_THING_INNER,1,learning
+WORD_THING_INNER,1,next step
+WORD_THING_INNER,1,delivery framework
+WORD_THING_INNER,1,structure
+WORD_THING_INNER,1,support structure
+WORD_THING_INNER,1,standardization
+WORD_THING_INNER,1,objective
+WORD_THING_INNER,1,footprint
+WORD_THING_INNER,1,transformation process
+WORD_THING_INNER,1,policy
+WORD_THING_INNER,1,sales target
+WORD_THING_INNER,1,ecosystem
+WORD_THING_INNER,1,market practice
+WORD_THING_INNER,1,atmosphere
+WORD_THING_INNER,1,operating strategy
+WORD_THING_INNER,1,core competency
+WORD_THING_INNER,1,market practice
+WORD_THING_INNER,1,operating strategy
+WORD_THING_INNER,1,insight
+WORD_THING_INNER,1,accomplishment
+WORD_THING_INNER,1,correlation
+WORD_THING_INNER,1,touch point
+WORD_THING_INNER,1,knowledge transfer
+WORD_THING_INNER,1,correlation
+WORD_THING_INNER,1,capability
+WORD_THING_INNER,1,gamification
+WORD_THING_INNER,1,smooth transition
+WORD_THING_INNER,1,leadership strategy
+WORD_THING_INNER,1,collaboration
+WORD_THING_INNER,1,success factor
+WORD_THING_INNER,1,lever
+WORD_THING_INNER,1,breakthrough
+WORD_THING_INNER,1,open-door policy
+WORD_THING_INNER,1,recalibration
+WORD_THING_INNER,1,wow factor
+WORD_THING_INNER,1,onboarding solution
+WORD_THING_INNER,1,brand pyramid
+WORD_THING_INNER,1,dashboard
+WORD_THING_INNER,1,branding
+WORD_THING_INNER,1,local-for-local strategy
+WORD_THING_INNER,1,cross-sell message
+WORD_THING_INNER,1,up-sell message
+WORD_THING_INNER,1,divisional structure
+WORD_THING_INNER,1,value chain
+WORD_THING_INNER,1,microsegment
+WORD_THING_INNER,1,rollout plan
+WORD_THING_INNER,1,architectural approach
+WORD_THING_INNER,1,brand value
+WORD_THING_INNER,1,milestone
+WORD_THING_INNER,1,co-innovation
+WORD_THING_INNER,1,speedup
+WORD_THING_INNER,1,validation
+WORD_THING_INNER,1,skill
+WORD_THING_INNER,1,skillset
+WORD_THING_INNER,1,feedback
+WORD_THING_INNER,1,learnability
+WORD_THING_INNER,1,visibility
+WORD_THING_INNER,1,agility
+WORD_THING_INNER,1,simplification
+WORD_THING_INNER,1,digitization
+WORD_THING_INNER,1,streamlining
+WORD_THING_INNER,1,brainstorming space
+WORD_THING_INNER,1,crowdsourcing
+WORD_THING_INNER,1,big-bang approach
+WORD_THING_INNER,1,execution message
+WORD_THING_INNER,1,criticality
+WORD_THING_INNER,1,opportunity pipeline
+WORD_THING_INNER,1,reorganization
+WORD_THING_INNER,1,synergization
+WORD_THING_INNER,1,socialization
+WORD_THING_INNER,1,strategic shift
+WORD_THING_INNER,1,growth engine
+WORD_THING_INNER,1,tailwind
+WORD_THING_INNER,1,accelerator
+WORD_THING_INNER,1,deliverable
+WORD_THING_INNER,1,takeaway
+WORD_THING_INNER,1,insourcing
+WORD_THING_INNER,1,outsourcing
+WORD_THING_INNER,1,careful consideration
+WORD_THING_INNER,1,conviction
+WORD_THING_INNER,1,initiator
+WORD_THING_INNER,1,operating model
+WORD_THING_INNER,1,proof-point
+WORD_THING_INNER,1,bounce rate
+WORD_THING_INNER,1,marketing funnel
+WORD_THING_INNER,1,offshoring
+WORD_THING_INNER,1,quick-win
+WORD_THING_INNER,1,cross-pollination
+WORD_THING_INNER,1,hybridation
+WORD_THING_INNER,1,positioning
+WORD_THING_INNER,1,reinvention
+WORD_THING_INNER,1,functionality
+WORD_THING_INNER,1,mindshare
+WORD_THING_INNER,1,mobility space
+WORD_THING_INNER,1,decision-to-execution cycle
+WORD_THING_INNER,1,adjustment
+WORD_THING_INNER,1,force management program
+WORD_THING_INNER,1,launchpad
+WORD_THING_INNER,1,value-chain
+WORD_THING_INNER,1,motion
+WORD_THING_INNER,1,customer-orientation
+WORD_THING_INNER,1,realignment
+WORD_THING_INNER,1,governmentalization
+WORD_THING_INNER,1,case study
+WORD_THING_INNER,1,blockchain
+WORD_THING_INNER,1,Innovation Incubator
+WORD_THING_INNER,1,input
+WORD_THING_INNER,1,scope
+WORD_THING_INNER,1,action
+WORD_THING_INNER,1,context
+WORD_THING_INNER,1,next level
+WORD_THING_INNER,1,topology
+WORD_THING_INNER,1,data point
+WORD_THING_INNER,1,enablement
+WORD_THING_INNER,1,test-first design
+WORD_THING_VERB_DEFINITE_ENDING,1,add value
+WORD_THING_VERB_DEFINITE_ENDING,1,deliver maximum impact
+WORD_THING_VERB_DEFINITE_ENDING,1,be on track
+WORD_THING_VERB_HAVING_COMPLEMENT,1,streamline
+WORD_THING_VERB_HAVING_COMPLEMENT,1,interact with
+WORD_THING_VERB_HAVING_COMPLEMENT,1,boost
+WORD_THING_VERB_HAVING_COMPLEMENT,1,generate
+WORD_THING_VERB_HAVING_COMPLEMENT,1,impact
+WORD_THING_VERB_HAVING_COMPLEMENT,1,enhance
+WORD_THING_VERB_HAVING_COMPLEMENT,1,leverage
+WORD_THING_VERB_HAVING_COMPLEMENT,1,synergize
+WORD_THING_VERB_HAVING_COMPLEMENT,1,generate
+WORD_THING_VERB_HAVING_COMPLEMENT,1,empower
+WORD_THING_VERB_HAVING_COMPLEMENT,1,enable
+WORD_THING_VERB_HAVING_COMPLEMENT,1,prioritize
+WORD_THING_VERB_HAVING_COMPLEMENT,1,transfer
+WORD_THING_VERB_HAVING_COMPLEMENT,1,drive
+WORD_THING_VERB_HAVING_COMPLEMENT,1,result in
+WORD_THING_VERB_HAVING_COMPLEMENT,1,promote
+WORD_THING_VERB_HAVING_COMPLEMENT,1,influence
+WORD_THING_VERB_HAVING_COMPLEMENT,1,facilitate
+WORD_THING_VERB_HAVING_COMPLEMENT,1,aggregate
+WORD_THING_VERB_HAVING_COMPLEMENT,1,architect
+WORD_THING_VERB_HAVING_COMPLEMENT,1,cultivate
+WORD_THING_VERB_HAVING_COMPLEMENT,1,engage
+WORD_THING_VERB_HAVING_COMPLEMENT,1,structure
+WORD_THING_VERB_HAVING_COMPLEMENT,1,standardize
+WORD_THING_VERB_HAVING_COMPLEMENT,1,accelerate
+WORD_THING_VERB_HAVING_COMPLEMENT,1,deepen
+WORD_THING_VERB_HAVING_COMPLEMENT,1,strengthen
+WORD_THING_VERB_HAVING_COMPLEMENT,1,enforce
+WORD_THING_VERB_HAVING_COMPLEMENT,1,foster
+WORD_THING_VERB_HAVING_COMPLEMENT,1,turbocharge
+WORD_THING_VERB_HAVING_COMPLEMENT,1,granularize
+WORD_THING_VERB_HAVING_COMPLEMENT,1,operationalize
+WORD_THING_VERB_HAVING_COMPLEMENT,1,reconceptualize
+WORD_THING_VERB_HAVING_COMPLEMENT,1,iterate
+WORD_THING_VERB_HAVING_COMPLEMENT,1,revolutionise
+WORD_THING_VERB_HAVING_COMPLEMENT,1,digitize
+WORD_THING_VERB_HAVING_COMPLEMENT,1,solutionize
+WORD_THING_VERB_HAVING_COMPLEMENT,1,lead to
+WORD_THING_VERB_HAVING_COMPLEMENT,1,reenergize
+WORD_THING_VERB_HAVING_COMPLEMENT,1,restructure
+WORD_THING_VERB_HAVING_COMPLEMENT,1,cross-pollinate
+WORD_THING_VERB_HAVING_COMPLEMENT,1,ignite
+WORD_THING_VERB_HAVING_COMPLEMENT,1,transgenerate
+WORD_TIMELESS_EVENT,1,kick-off
+WORD_TIMELESS_EVENT,1,roll-out
+WORD_TIMELESS_EVENT,1,client event
+WORD_TIMELESS_EVENT,1,quarterly results
