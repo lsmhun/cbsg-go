@@ -1,19 +1,22 @@
-# Corporate bullshit generator for Go
+# Corporate Bullshit Generator for Go
 
 This is the [Corporate Bullshit Generator](http://cbsg.sf.net/) rewritten for Golang.
 Implementation is based on [Corporate Bullshit Generator for Java](https://github.com/lsmhun/cbsg-java).
 Transcoding committed by ChatGPT 3.5
 
+* [English documentation](./docs/desc_en.md)
+* [Hungarian documentation](./docs/desc_hu.md)
+
 # Features
 
 This can be used as a standalone program or a library. You can generate other dictionaries based
-on the [cbsg dictionary file](./dict/cbsg_dictionary.csv) .
+on the [cbsg dictionary file](./dict/en/cbsg_dictionary.csv) .
 
 # Usage
 
 ## Build application
 You can build as a simple standalone application with built-in dictionary.
-Default value is "workshop"
+Default value is "shortWorkshop".
 ```shell
 $ make build
 $ ./out/bin/cbsg --help
