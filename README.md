@@ -1,4 +1,6 @@
 # Corporate Bullshit Generator for Go
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flsmhun%2Fcbsg-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flsmhun%2Fcbsg-go?ref=badge_shield)
+
 
 This is the [Corporate Bullshit Generator](http://cbsg.sf.net/) rewritten for Golang.
 Implementation is based on [Corporate Bullshit Generator for Java](https://github.com/lsmhun/cbsg-java).
@@ -67,3 +69,7 @@ Example output with [cowsay](https://github.com/Code-Hex/Neo-cowsay) (with added
              / | '\_/' | \
             /  |  | |  |  \
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flsmhun%2Fcbsg-go.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flsmhun%2Fcbsg-go?ref=badge_large)
