@@ -1,4 +1,5 @@
 # Corporate Bullshit Generator for Go
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/lsmhun/cbsg-go/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/lsmhun/cbsg-go/tree/main)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flsmhun%2Fcbsg-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flsmhun%2Fcbsg-go?ref=badge_shield)
 
 
@@ -6,8 +7,8 @@ This is the [Corporate Bullshit Generator](http://cbsg.sf.net/) rewritten for Go
 Implementation is based on [Corporate Bullshit Generator for Java](https://github.com/lsmhun/cbsg-java).
 Transcoding committed by ChatGPT 3.5
 
-* [English documentation](./docs/desc_en.md)
-* [Hungarian documentation](./docs/desc_hu.md)
+* [English documentation](./docs/descr_en.md)
+* [Hungarian documentation](./docs/descr_hu.md)
 
 # Features
 
