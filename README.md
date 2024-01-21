@@ -1,6 +1,7 @@
 # Corporate Bullshit Generator for Go
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/lsmhun/cbsg-go/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/lsmhun/cbsg-go/tree/main)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flsmhun%2Fcbsg-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flsmhun%2Fcbsg-go?ref=badge_shield)
+[![Go Reference](https://pkg.go.dev/badge/github.com/lsmhun/cbsg-go.svg)](https://pkg.go.dev/github.com/lsmhun/cbsg-go)
 
 
 This is the [Corporate Bullshit Generator](http://cbsg.sf.net/) rewritten for Golang.
