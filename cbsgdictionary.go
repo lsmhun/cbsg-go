@@ -59,12 +59,15 @@ func (cd *CbsgDictionary) loadDictionary(dictionaryFile string) {
 
 func (cd *CbsgDictionary) loadDictionaryFromReader(readIo io.Reader) {
 	scanner := bufio.NewScanner(readIo)
+	cd.mu.Lock()
+	defer cd.mu.Unlock()
+
 	for scanner.Scan() {
 		line := scanner.Text()
 		if strings.HasPrefix(line, "#") {
 			continue
 		}
-		l := strings.Split(line, ",")
+		l := strings.SplitN(line, ",", 3)
 		if len(l) != 3 {
 			continue
 		}
@@ -75,12 +78,10 @@ func (cd *CbsgDictionary) loadDictionaryFromReader(readIo io.Reader) {
 		}
 		value := l[2]
 
-		cd.mu.Lock()
 		if cd.sentenceCache[key] == nil {
 			cd.sentenceCache[key] = make(map[string]int)
 		}
 		cd.sentenceCache[key][value] = weight
-		cd.mu.Unlock()
 	}
 
 	if err := scanner.Err(); err != nil {

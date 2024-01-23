@@ -94,3 +94,45 @@ func compareMaps(map1, map2 map[string]map[string]int) bool {
 
 	return true
 }
+
+func TestLoadDictionaryFromReader_SingleLine(t *testing.T) {
+	dictionaryContent := `SENW_ARTICULATED_PROPOSITION,270,This is an enumeration: one, two, three
+`
+	reader := strings.NewReader(dictionaryContent)
+
+	dictionary := NewCbsgDictionary()
+	dictionary.loadDictionaryFromReader(reader)
+
+	expectedCache := map[string]map[string]int{
+		"SENW_ARTICULATED_PROPOSITION": {
+			"This is an enumeration: one, two, three": 270,
+		},
+	}
+
+	for key, expectedValues := range expectedCache {
+		actualValues, ok := dictionary.sentenceCache[key]
+		if !ok {
+			t.Errorf("Key %s not found in sentenceCache", key)
+			continue
+		}
+
+		for value, expectedWeight := range expectedValues {
+			actualWeight, ok := actualValues[value]
+			if !ok {
+				t.Errorf("Value %s not found for key %s in sentenceCache", value, key)
+				continue
+			}
+
+			if actualWeight != expectedWeight {
+				t.Errorf("Weight mismatch for key %s and value %s. Expected: %d, Actual: %d",
+					key, value, expectedWeight, actualWeight)
+			}
+
+			// Additional check for value
+			if actualValue := value; actualValue != value {
+				t.Errorf("Value mismatch for key %s. Expected: %s, Actual: %s",
+					key, value, actualValue)
+			}
+		}
+	}
+}
